@@ -1,7 +1,7 @@
 <!-- markdownlint-disable -->
 
 <p align="center">
-  <img src="assets/logo.png" alt="Max Big Icon Pack" width="150">
+  <img src="https://raw.githubusercontent.com/Johnattas/max-big-icon-pack/main/assets/logo.png" alt="Max Big Icon Pack" width="150">
 </p>
 
 <h1 align="center">🎨 Max Big Icon Pack</h1>
@@ -72,8 +72,8 @@ O objetivo é simples: **qualquer arquivo ou pasta que você abrir deve ter um �
 ## 🖼️ Preview
 
 <p align="center">
-  <img src="assets/example-dark.png" alt="Preview (tema escuro)" width="48%">
-  <img src="assets/example-light.png" alt="Preview (tema claro)" width="48%">
+  <img src="https://raw.githubusercontent.com/Johnattas/max-big-icon-pack/main/assets/example-dark.png" alt="Preview (tema escuro)" width="48%">
+  <img src="https://raw.githubusercontent.com/Johnattas/max-big-icon-pack/main/assets/example-light.png" alt="Preview (tema claro)" width="48%">
 </p>
 
 ---
@@ -85,67 +85,67 @@ O objetivo é simples: **qualquer arquivo ou pasta que você abrir deve ter um �
 ### 📄 Arquivos — linguagens de programação
 
 <p align="center">
-  <img src="assets/gallery-files-languages.png" alt="Ícones de arquivo: linguagens" width="100%">
+  <img src="https://raw.githubusercontent.com/Johnattas/max-big-icon-pack/main/assets/gallery-files-languages.png" alt="Ícones de arquivo: linguagens" width="100%">
 </p>
 
 ### 📄 Arquivos — web & frontend
 
 <p align="center">
-  <img src="assets/gallery-files-web.png" alt="Ícones de arquivo: web e frontend" width="100%">
+  <img src="https://raw.githubusercontent.com/Johnattas/max-big-icon-pack/main/assets/gallery-files-web.png" alt="Ícones de arquivo: web e frontend" width="100%">
 </p>
 
 ### 📄 Arquivos — dados & formatos
 
 <p align="center">
-  <img src="assets/gallery-files-data.png" alt="Ícones de arquivo: dados e formatos" width="100%">
+  <img src="https://raw.githubusercontent.com/Johnattas/max-big-icon-pack/main/assets/gallery-files-data.png" alt="Ícones de arquivo: dados e formatos" width="100%">
 </p>
 
 ### 📄 Arquivos — config & tooling
 
 <p align="center">
-  <img src="assets/gallery-files-config.png" alt="Ícones de arquivo: config e tooling" width="100%">
+  <img src="https://raw.githubusercontent.com/Johnattas/max-big-icon-pack/main/assets/gallery-files-config.png" alt="Ícones de arquivo: config e tooling" width="100%">
 </p>
 
 ### 📄 Arquivos — build, DevOps & meta
 
 <p align="center">
-  <img src="assets/gallery-files-build.png" alt="Ícones de arquivo: build, DevOps e meta" width="100%">
+  <img src="https://raw.githubusercontent.com/Johnattas/max-big-icon-pack/main/assets/gallery-files-build.png" alt="Ícones de arquivo: build, DevOps e meta" width="100%">
 </p>
 
 ### 📁 Frameworks, libs & UI
 
 <p align="center">
-  <img src="assets/gallery-frameworks.png" alt="Ícones de pasta: frameworks, libs e UI" width="100%">
+  <img src="https://raw.githubusercontent.com/Johnattas/max-big-icon-pack/main/assets/gallery-frameworks.png" alt="Ícones de pasta: frameworks, libs e UI" width="100%">
 </p>
 
 ### 📁 Bancos de dados
 
 <p align="center">
-  <img src="assets/gallery-databases.png" alt="Ícones de pasta: bancos de dados" width="100%">
+  <img src="https://raw.githubusercontent.com/Johnattas/max-big-icon-pack/main/assets/gallery-databases.png" alt="Ícones de pasta: bancos de dados" width="100%">
 </p>
 
 ### 📁 Cloud, DevOps & CI
 
 <p align="center">
-  <img src="assets/gallery-devops.png" alt="Ícones de pasta: cloud, DevOps e CI" width="100%">
+  <img src="https://raw.githubusercontent.com/Johnattas/max-big-icon-pack/main/assets/gallery-devops.png" alt="Ícones de pasta: cloud, DevOps e CI" width="100%">
 </p>
 
 ### 📁 Ferramentas, editores & IDEs
 
 <p align="center">
-  <img src="assets/gallery-tools.png" alt="Ícones de pasta: ferramentas, editores e IDEs" width="100%">
+  <img src="https://raw.githubusercontent.com/Johnattas/max-big-icon-pack/main/assets/gallery-tools.png" alt="Ícones de pasta: ferramentas, editores e IDEs" width="100%">
 </p>
 
 ### 📁 Serviços, SaaS & APIs
 
 <p align="center">
-  <img src="assets/gallery-services.png" alt="Ícones de pasta: serviços, SaaS e APIs" width="100%">
+  <img src="https://raw.githubusercontent.com/Johnattas/max-big-icon-pack/main/assets/gallery-services.png" alt="Ícones de pasta: serviços, SaaS e APIs" width="100%">
 </p>
 
 ### 📁 IA/ML, Web3 & mensageria
 
 <p align="center">
-  <img src="assets/gallery-ai-web3.png" alt="Ícones de pasta: IA/ML, Web3 e mensageria" width="100%">
+  <img src="https://raw.githubusercontent.com/Johnattas/max-big-icon-pack/main/assets/gallery-ai-web3.png" alt="Ícones de pasta: IA/ML, Web3 e mensageria" width="100%">
 </p>
 
 <p align="center"><sub>Galerias geradas a partir do tema real por <code>node scripts/preview/gen-gallery.mjs</code>.</sub></p>
