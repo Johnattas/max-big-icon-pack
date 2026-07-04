@@ -1,0 +1,39 @@
+{
+  "name": "max-big-icon-pack",
+  "displayName": "Max Big Icon Pack",
+  "description": "Material Icon Theme estendido com ícones extras (atom-master + AFileIcon).",
+  "version": "0.1.0",
+  "publisher": "johnattas",
+  "license": "MIT",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "icons",
+    "icon theme",
+    "material",
+    "file icons",
+    "folder icons"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Johnattas/max-big-icon-pack.git"
+  },
+  "homepage": "https://github.com/Johnattas/max-big-icon-pack#readme",
+  "bugs": {
+    "url": "https://github.com/Johnattas/max-big-icon-pack/issues"
+  },
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "max-big-icon-pack",
+        "label": "Max Big Icon Pack",
+        "path": "./max-big-icon-theme.json"
+      }
+    ]
+  }
+}

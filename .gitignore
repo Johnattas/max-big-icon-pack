@@ -1,0 +1,36 @@
+dist/
+out/
+github-material-icons-chrome-extension.zip
+github-material-icons-firefox-extension.zip
+github-material-icons-edge-extension.zip
+src/icon-list.json
+svg/
+data/
+
+# Directories/files that may appear in your environment
+node_modules
+*.log
+.idea
+.DS_Store
+.eslintcache
+Thumbs.db
+
+.env
+test-results/
+playwright-report/
+
+# Generated VSCode icon-theme output: base SVGs copied from material-icon-theme are
+# regenerable via `npm run import-icons`. Keep dist-theme/package.json, README.md,
+# max-big-icon-theme.json and SUPPORTED_ICONS.md versioned.
+dist-theme/icons/
+
+# vsix build artifact
+dist-theme/*.vsix
+
+# Diretórios de agentes/IA e ambientes locais — nunca versionar
+.agents/
+.claude/
+.gemini/
+.superpowers/
+.antigravitycli/
+.junie/
