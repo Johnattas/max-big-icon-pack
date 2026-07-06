@@ -1,6 +1,6 @@
 {
   "name": "max-big-icon-pack",
-  "version": "0.1.0",
+  "version": "1.0.21",
   "private": true,
   "description": "Pipeline reproduzível que gera o Max Big Icon Pack — icon theme do VS Code baseado no Material Icon Theme com 10.000+ ícones.",
   "author": {
