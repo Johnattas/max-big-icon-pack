@@ -1,7 +1,7 @@
 <!-- markdownlint-disable -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Johnattas/max-big-icon-pack/main/assets/logo.png" alt="Max Big Icon Pack" width="150">
+  <img src="https://raw.githubusercontent.com/Johnattas/max-big-icon-pack/main/assets/demo.gif" alt="Max Big Icon Pack — demo" width="100%">
 </p>
 
 <h1 align="center">🎨 Max Big Icon Pack</h1>
@@ -156,10 +156,10 @@ O objetivo é simples: **qualquer arquivo ou pasta que você abrir deve ter um �
 
 ### Via arquivo `.vsix`
 
-O pacote instalável fica em [`dist-theme/max-big-icon-pack-1.0.21.vsix`](dist-theme/):
+O pacote instalável fica em [`dist-theme/max-big-icon-pack-1.0.22.vsix`](dist-theme/):
 
 ```bash
-code --install-extension dist-theme/max-big-icon-pack-1.0.21.vsix
+code --install-extension dist-theme/max-big-icon-pack-1.0.22.vsix
 ```
 
 > Compatível também com **Cursor**, **Windsurf**, **VSCodium** e outros editores que aceitam o formato VSIX.

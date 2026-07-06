@@ -1,7 +1,7 @@
 <!-- markdownlint-disable -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Johnattas/max-big-icon-pack/main/assets/logo.png" alt="Max Big Icon Pack" width="130">
+  <img src="https://raw.githubusercontent.com/Johnattas/max-big-icon-pack/main/assets/demo.gif" alt="Max Big Icon Pack — demo" width="100%">
 </p>
 
 <h1 align="center">🎨 Max Big Icon Pack</h1>
