@@ -81,3 +81,8 @@ Não há skill específica para conversão de fonte/SVG; essa parte é scripting
 
 - Referencie arquivos como `caminho:linha`. Lint/format: Biome (`biome.jsonc`).
 - Não instale deps nem rode builds sem necessidade; `node_modules/` começa vazio.
+
+## Empacotamento e Versionamento Automático
+
+- **Empacotamento Automático**: Em **cada alteração** efetuada no código ou ícones deste repositório, execute obrigatoriamente `npm run package` para gerar o arquivo de extensão `.vsix` atualizado na pasta `dist-theme/`.
+- **Incremento de Versão Automático**: O script `npm run package` chama automaticamente `scripts/bump-version.ts`, que incrementa a versão *patch* em `package.json` e `dist-theme/package.json` (ex: `1.0.22` -> `1.0.23`) antes de criar o arquivo VSIX.
