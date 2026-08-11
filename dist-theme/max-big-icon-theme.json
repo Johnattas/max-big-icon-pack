@@ -6960,300 +6960,6 @@
     "mbip-folder-gitlfs-open": {
       "iconPath": "icons/mbip-folder-gitlfs-open.svg"
     },
-    "mbip-folder-apex": {
-      "iconPath": "icons/mbip-folder-apex.svg"
-    },
-    "mbip-folder-apex-open": {
-      "iconPath": "icons/mbip-folder-apex-open.svg"
-    },
-    "mbip-folder-bash": {
-      "iconPath": "icons/mbip-folder-bash.svg"
-    },
-    "mbip-folder-bash-open": {
-      "iconPath": "icons/mbip-folder-bash-open.svg"
-    },
-    "mbip-folder-embeddedc": {
-      "iconPath": "icons/mbip-folder-embeddedc.svg"
-    },
-    "mbip-folder-embeddedc-open": {
-      "iconPath": "icons/mbip-folder-embeddedc-open.svg"
-    },
-    "mbip-folder-grpc": {
-      "iconPath": "icons/mbip-folder-grpc.svg"
-    },
-    "mbip-folder-grpc-open": {
-      "iconPath": "icons/mbip-folder-grpc-open.svg"
-    },
-    "mbip-folder-matplotlib": {
-      "iconPath": "icons/mbip-folder-matplotlib.svg"
-    },
-    "mbip-folder-matplotlib-open": {
-      "iconPath": "icons/mbip-folder-matplotlib-open.svg"
-    },
-    "mbip-folder-pixijs": {
-      "iconPath": "icons/mbip-folder-pixijs.svg"
-    },
-    "mbip-folder-pixijs-open": {
-      "iconPath": "icons/mbip-folder-pixijs-open.svg"
-    },
-    "mbip-folder-p5js": {
-      "iconPath": "icons/mbip-folder-p5js.svg"
-    },
-    "mbip-folder-p5js-open": {
-      "iconPath": "icons/mbip-folder-p5js-open.svg"
-    },
-    "mbip-folder-rxjs": {
-      "iconPath": "icons/mbip-folder-rxjs.svg"
-    },
-    "mbip-folder-rxjs-open": {
-      "iconPath": "icons/mbip-folder-rxjs-open.svg"
-    },
-    "mbip-folder-reactnative": {
-      "iconPath": "icons/mbip-folder-reactnative.svg"
-    },
-    "mbip-folder-reactnative-open": {
-      "iconPath": "icons/mbip-folder-reactnative-open.svg"
-    },
-    "mbip-folder-reactnavigation": {
-      "iconPath": "icons/mbip-folder-reactnavigation.svg"
-    },
-    "mbip-folder-reactnavigation-open": {
-      "iconPath": "icons/mbip-folder-reactnavigation-open.svg"
-    },
-    "mbip-folder-zustand": {
-      "iconPath": "icons/mbip-folder-zustand.svg"
-    },
-    "mbip-folder-zustand-open": {
-      "iconPath": "icons/mbip-folder-zustand-open.svg"
-    },
-    "mbip-folder-vuestorefront": {
-      "iconPath": "icons/mbip-folder-vuestorefront.svg"
-    },
-    "mbip-folder-vuestorefront-open": {
-      "iconPath": "icons/mbip-folder-vuestorefront-open.svg"
-    },
-    "mbip-folder-grails": {
-      "iconPath": "icons/mbip-folder-grails.svg"
-    },
-    "mbip-folder-grails-open": {
-      "iconPath": "icons/mbip-folder-grails-open.svg"
-    },
-    "mbip-folder-dropwizard": {
-      "iconPath": "icons/mbip-folder-dropwizard.svg"
-    },
-    "mbip-folder-dropwizard-open": {
-      "iconPath": "icons/mbip-folder-dropwizard-open.svg"
-    },
-    "mbip-folder-entityframeworkcore": {
-      "iconPath": "icons/mbip-folder-entityframeworkcore.svg"
-    },
-    "mbip-folder-entityframeworkcore-open": {
-      "iconPath": "icons/mbip-folder-entityframeworkcore-open.svg"
-    },
-    "mbip-folder-dotnetcore": {
-      "iconPath": "icons/mbip-folder-dotnetcore.svg"
-    },
-    "mbip-folder-dotnetcore-open": {
-      "iconPath": "icons/mbip-folder-dotnetcore-open.svg"
-    },
-    "mbip-folder-love2d": {
-      "iconPath": "icons/mbip-folder-love2d.svg"
-    },
-    "mbip-folder-love2d-open": {
-      "iconPath": "icons/mbip-folder-love2d-open.svg"
-    },
-    "mbip-folder-bevyengine": {
-      "iconPath": "icons/mbip-folder-bevyengine.svg"
-    },
-    "mbip-folder-bevyengine-open": {
-      "iconPath": "icons/mbip-folder-bevyengine-open.svg"
-    },
-    "mbip-folder-babylonjs": {
-      "iconPath": "icons/mbip-folder-babylonjs.svg"
-    },
-    "mbip-folder-babylonjs-open": {
-      "iconPath": "icons/mbip-folder-babylonjs-open.svg"
-    },
-    "mbip-folder-filamentphp": {
-      "iconPath": "icons/mbip-folder-filamentphp.svg"
-    },
-    "mbip-folder-filamentphp-open": {
-      "iconPath": "icons/mbip-folder-filamentphp-open.svg"
-    },
-    "mbip-folder-djangorest": {
-      "iconPath": "icons/mbip-folder-djangorest.svg"
-    },
-    "mbip-folder-djangorest-open": {
-      "iconPath": "icons/mbip-folder-djangorest-open.svg"
-    },
-    "mbip-folder-libgdx": {
-      "iconPath": "icons/mbip-folder-libgdx.svg"
-    },
-    "mbip-folder-libgdx-open": {
-      "iconPath": "icons/mbip-folder-libgdx-open.svg"
-    },
-    "mbip-folder-oracle": {
-      "iconPath": "icons/mbip-folder-oracle.svg"
-    },
-    "mbip-folder-oracle-open": {
-      "iconPath": "icons/mbip-folder-oracle-open.svg"
-    },
-    "mbip-folder-cassandra": {
-      "iconPath": "icons/mbip-folder-cassandra.svg"
-    },
-    "mbip-folder-cassandra-open": {
-      "iconPath": "icons/mbip-folder-cassandra-open.svg"
-    },
-    "mbip-folder-couchdb": {
-      "iconPath": "icons/mbip-folder-couchdb.svg"
-    },
-    "mbip-folder-couchdb-open": {
-      "iconPath": "icons/mbip-folder-couchdb-open.svg"
-    },
-    "mbip-folder-dynamodb": {
-      "iconPath": "icons/mbip-folder-dynamodb.svg"
-    },
-    "mbip-folder-dynamodb-open": {
-      "iconPath": "icons/mbip-folder-dynamodb-open.svg"
-    },
-    "mbip-folder-faunadb": {
-      "iconPath": "icons/mbip-folder-faunadb.svg"
-    },
-    "mbip-folder-faunadb-open": {
-      "iconPath": "icons/mbip-folder-faunadb-open.svg"
-    },
-    "mbip-folder-cosmosdb": {
-      "iconPath": "icons/mbip-folder-cosmosdb.svg"
-    },
-    "mbip-folder-cosmosdb-open": {
-      "iconPath": "icons/mbip-folder-cosmosdb-open.svg"
-    },
-    "mbip-folder-memcached": {
-      "iconPath": "icons/mbip-folder-memcached.svg"
-    },
-    "mbip-folder-memcached-open": {
-      "iconPath": "icons/mbip-folder-memcached-open.svg"
-    },
-    "mbip-folder-hadoop": {
-      "iconPath": "icons/mbip-folder-hadoop.svg"
-    },
-    "mbip-folder-hadoop-open": {
-      "iconPath": "icons/mbip-folder-hadoop-open.svg"
-    },
-    "mbip-folder-microsoftsqlserver": {
-      "iconPath": "icons/mbip-folder-microsoftsqlserver.svg"
-    },
-    "mbip-folder-microsoftsqlserver-open": {
-      "iconPath": "icons/mbip-folder-microsoftsqlserver-open.svg"
-    },
-    "mbip-folder-yugabytedb": {
-      "iconPath": "icons/mbip-folder-yugabytedb.svg"
-    },
-    "mbip-folder-yugabytedb-open": {
-      "iconPath": "icons/mbip-folder-yugabytedb-open.svg"
-    },
-    "mbip-folder-netbeans": {
-      "iconPath": "icons/mbip-folder-netbeans.svg"
-    },
-    "mbip-folder-netbeans-open": {
-      "iconPath": "icons/mbip-folder-netbeans-open.svg"
-    },
-    "mbip-folder-ohmyzsh": {
-      "iconPath": "icons/mbip-folder-ohmyzsh.svg"
-    },
-    "mbip-folder-ohmyzsh-open": {
-      "iconPath": "icons/mbip-folder-ohmyzsh-open.svg"
-    },
-    "mbip-folder-putty": {
-      "iconPath": "icons/mbip-folder-putty.svg"
-    },
-    "mbip-folder-putty-open": {
-      "iconPath": "icons/mbip-folder-putty-open.svg"
-    },
-    "mbip-folder-unix": {
-      "iconPath": "icons/mbip-folder-unix.svg"
-    },
-    "mbip-folder-unix-open": {
-      "iconPath": "icons/mbip-folder-unix-open.svg"
-    },
-    "mbip-folder-msdos": {
-      "iconPath": "icons/mbip-folder-msdos.svg"
-    },
-    "mbip-folder-msdos-open": {
-      "iconPath": "icons/mbip-folder-msdos-open.svg"
-    },
-    "mbip-folder-junit": {
-      "iconPath": "icons/mbip-folder-junit.svg"
-    },
-    "mbip-folder-junit-open": {
-      "iconPath": "icons/mbip-folder-junit-open.svg"
-    },
-    "mbip-folder-threedsmax": {
-      "iconPath": "icons/mbip-folder-threedsmax.svg"
-    },
-    "mbip-folder-threedsmax-open": {
-      "iconPath": "icons/mbip-folder-threedsmax-open.svg"
-    },
-    "mbip-folder-aftereffects": {
-      "iconPath": "icons/mbip-folder-aftereffects.svg"
-    },
-    "mbip-folder-aftereffects-open": {
-      "iconPath": "icons/mbip-folder-aftereffects-open.svg"
-    },
-    "mbip-folder-photoshop": {
-      "iconPath": "icons/mbip-folder-photoshop.svg"
-    },
-    "mbip-folder-photoshop-open": {
-      "iconPath": "icons/mbip-folder-photoshop-open.svg"
-    },
-    "mbip-folder-illustrator": {
-      "iconPath": "icons/mbip-folder-illustrator.svg"
-    },
-    "mbip-folder-illustrator-open": {
-      "iconPath": "icons/mbip-folder-illustrator-open.svg"
-    },
-    "mbip-folder-xd": {
-      "iconPath": "icons/mbip-folder-xd.svg"
-    },
-    "mbip-folder-xd-open": {
-      "iconPath": "icons/mbip-folder-xd-open.svg"
-    },
-    "mbip-folder-canva": {
-      "iconPath": "icons/mbip-folder-canva.svg"
-    },
-    "mbip-folder-canva-open": {
-      "iconPath": "icons/mbip-folder-canva-open.svg"
-    },
-    "mbip-folder-twilio": {
-      "iconPath": "icons/mbip-folder-twilio.svg"
-    },
-    "mbip-folder-twilio-open": {
-      "iconPath": "icons/mbip-folder-twilio-open.svg"
-    },
-    "mbip-folder-linkedin": {
-      "iconPath": "icons/mbip-folder-linkedin.svg"
-    },
-    "mbip-folder-linkedin-open": {
-      "iconPath": "icons/mbip-folder-linkedin-open.svg"
-    },
-    "mbip-folder-twitter": {
-      "iconPath": "icons/mbip-folder-twitter.svg"
-    },
-    "mbip-folder-twitter-open": {
-      "iconPath": "icons/mbip-folder-twitter-open.svg"
-    },
-    "mbip-folder-oauth": {
-      "iconPath": "icons/mbip-folder-oauth.svg"
-    },
-    "mbip-folder-oauth-open": {
-      "iconPath": "icons/mbip-folder-oauth-open.svg"
-    },
-    "mbip-folder-windows11": {
-      "iconPath": "icons/mbip-folder-windows11.svg"
-    },
-    "mbip-folder-windows11-open": {
-      "iconPath": "icons/mbip-folder-windows11-open.svg"
-    },
     "mbip-folder-ahk": {
       "iconPath": "icons/mbip-folder-ahk.svg"
     },
@@ -10536,18 +10242,6 @@
     "mbip-folder-x-open": {
       "iconPath": "icons/mbip-folder-x-open.svg"
     },
-    "mbip-folder-clojurescript": {
-      "iconPath": "icons/mbip-folder-clojurescript.svg"
-    },
-    "mbip-folder-clojurescript-open": {
-      "iconPath": "icons/mbip-folder-clojurescript-open.svg"
-    },
-    "mbip-folder-visualbasic": {
-      "iconPath": "icons/mbip-folder-visualbasic.svg"
-    },
-    "mbip-folder-visualbasic-open": {
-      "iconPath": "icons/mbip-folder-visualbasic-open.svg"
-    },
     "mbip-folder-vulkan": {
       "iconPath": "icons/mbip-folder-vulkan.svg"
     },
@@ -10560,47 +10254,11 @@
     "mbip-folder-hibernate-open": {
       "iconPath": "icons/mbip-folder-hibernate-open.svg"
     },
-    "mbip-folder-veevalidate": {
-      "iconPath": "icons/mbip-folder-veevalidate.svg"
-    },
-    "mbip-folder-veevalidate-open": {
-      "iconPath": "icons/mbip-folder-veevalidate-open.svg"
-    },
-    "mbip-folder-cypressio": {
-      "iconPath": "icons/mbip-folder-cypressio.svg"
-    },
-    "mbip-folder-cypressio-open": {
-      "iconPath": "icons/mbip-folder-cypressio-open.svg"
-    },
-    "mbip-folder-gcc": {
-      "iconPath": "icons/mbip-folder-gcc.svg"
-    },
-    "mbip-folder-gcc-open": {
-      "iconPath": "icons/mbip-folder-gcc-open.svg"
-    },
     "mbip-folder-homebrew": {
       "iconPath": "icons/mbip-folder-homebrew.svg"
     },
     "mbip-folder-homebrew-open": {
       "iconPath": "icons/mbip-folder-homebrew-open.svg"
-    },
-    "mbip-folder-envoy": {
-      "iconPath": "icons/mbip-folder-envoy.svg"
-    },
-    "mbip-folder-envoy-open": {
-      "iconPath": "icons/mbip-folder-envoy-open.svg"
-    },
-    "mbip-folder-teleport": {
-      "iconPath": "icons/mbip-folder-teleport.svg"
-    },
-    "mbip-folder-teleport-open": {
-      "iconPath": "icons/mbip-folder-teleport-open.svg"
-    },
-    "mbip-folder-spyder": {
-      "iconPath": "icons/mbip-folder-spyder.svg"
-    },
-    "mbip-folder-spyder-open": {
-      "iconPath": "icons/mbip-folder-spyder-open.svg"
     },
     "mbip-folder-facebook": {
       "iconPath": "icons/mbip-folder-facebook.svg"
@@ -10625,12 +10283,6 @@
     },
     "mbip-folder-leetcode-open": {
       "iconPath": "icons/mbip-folder-leetcode-open.svg"
-    },
-    "mbip-folder-css3": {
-      "iconPath": "icons/mbip-folder-css3.svg"
-    },
-    "mbip-folder-css3-open": {
-      "iconPath": "icons/mbip-folder-css3-open.svg"
     },
     "mbip-folder-apachegroovy": {
       "iconPath": "icons/mbip-folder-apachegroovy.svg"
@@ -14058,155 +13710,17 @@
     "mbip-folder-zcash-open": {
       "iconPath": "icons/mbip-folder-zcash-open.svg"
     },
-    "mbip-folder-jule": {
-      "iconPath": "icons/mbip-folder-jule.svg"
-    },
-    "mbip-folder-jule-open": {
-      "iconPath": "icons/mbip-folder-jule-open.svg"
-    },
-    "mbip-folder-akka": {
-      "iconPath": "icons/mbip-folder-akka.svg"
-    },
-    "mbip-folder-akka-open": {
-      "iconPath": "icons/mbip-folder-akka-open.svg"
-    },
-    "mbip-folder-angularmaterial": {
-      "iconPath": "icons/mbip-folder-angularmaterial.svg"
-    },
-    "mbip-folder-angularmaterial-open": {
-      "iconPath": "icons/mbip-folder-angularmaterial-open.svg"
-    },
-    "mbip-folder-datatables": {
-      "iconPath": "icons/mbip-folder-datatables.svg"
-    },
-    "mbip-folder-datatables-open": {
-      "iconPath": "icons/mbip-folder-datatables-open.svg"
-    },
-    "mbip-folder-feathersjs": {
-      "iconPath": "icons/mbip-folder-feathersjs.svg"
-    },
-    "mbip-folder-feathersjs-open": {
-      "iconPath": "icons/mbip-folder-feathersjs-open.svg"
-    },
-    "mbip-folder-fiber": {
-      "iconPath": "icons/mbip-folder-fiber.svg"
-    },
-    "mbip-folder-fiber-open": {
-      "iconPath": "icons/mbip-folder-fiber-open.svg"
-    },
-    "mbip-folder-foundation": {
-      "iconPath": "icons/mbip-folder-foundation.svg"
-    },
-    "mbip-folder-foundation-open": {
-      "iconPath": "icons/mbip-folder-foundation-open.svg"
-    },
-    "mbip-folder-framermotion": {
-      "iconPath": "icons/mbip-folder-framermotion.svg"
-    },
-    "mbip-folder-framermotion-open": {
-      "iconPath": "icons/mbip-folder-framermotion-open.svg"
-    },
-    "mbip-folder-laraveljetstream": {
-      "iconPath": "icons/mbip-folder-laraveljetstream.svg"
-    },
-    "mbip-folder-laraveljetstream-open": {
-      "iconPath": "icons/mbip-folder-laraveljetstream-open.svg"
-    },
-    "mbip-folder-magento": {
-      "iconPath": "icons/mbip-folder-magento.svg"
-    },
-    "mbip-folder-magento-open": {
-      "iconPath": "icons/mbip-folder-magento-open.svg"
-    },
-    "mbip-folder-materializecss": {
-      "iconPath": "icons/mbip-folder-materializecss.svg"
-    },
-    "mbip-folder-materializecss-open": {
-      "iconPath": "icons/mbip-folder-materializecss-open.svg"
-    },
-    "mbip-folder-materialui": {
-      "iconPath": "icons/mbip-folder-materialui.svg"
-    },
-    "mbip-folder-materialui-open": {
-      "iconPath": "icons/mbip-folder-materialui-open.svg"
-    },
-    "mbip-folder-mithril": {
-      "iconPath": "icons/mbip-folder-mithril.svg"
-    },
-    "mbip-folder-mithril-open": {
-      "iconPath": "icons/mbip-folder-mithril-open.svg"
-    },
     "mbip-folder-moodle": {
       "iconPath": "icons/mbip-folder-moodle.svg"
     },
     "mbip-folder-moodle-open": {
       "iconPath": "icons/mbip-folder-moodle-open.svg"
     },
-    "mbip-folder-socketio": {
-      "iconPath": "icons/mbip-folder-socketio.svg"
-    },
-    "mbip-folder-socketio-open": {
-      "iconPath": "icons/mbip-folder-socketio-open.svg"
-    },
-    "mbip-folder-xamarin": {
-      "iconPath": "icons/mbip-folder-xamarin.svg"
-    },
-    "mbip-folder-xamarin-open": {
-      "iconPath": "icons/mbip-folder-xamarin-open.svg"
-    },
-    "mbip-folder-argocd": {
-      "iconPath": "icons/mbip-folder-argocd.svg"
-    },
-    "mbip-folder-argocd-open": {
-      "iconPath": "icons/mbip-folder-argocd-open.svg"
-    },
-    "mbip-folder-azuredevops": {
-      "iconPath": "icons/mbip-folder-azuredevops.svg"
-    },
-    "mbip-folder-azuredevops-open": {
-      "iconPath": "icons/mbip-folder-azuredevops-open.svg"
-    },
-    "mbip-folder-browserstack": {
-      "iconPath": "icons/mbip-folder-browserstack.svg"
-    },
-    "mbip-folder-browserstack-open": {
-      "iconPath": "icons/mbip-folder-browserstack-open.svg"
-    },
-    "mbip-folder-githubcodespaces": {
-      "iconPath": "icons/mbip-folder-githubcodespaces.svg"
-    },
-    "mbip-folder-githubcodespaces-open": {
-      "iconPath": "icons/mbip-folder-githubcodespaces-open.svg"
-    },
     "mbip-folder-hugo": {
       "iconPath": "icons/mbip-folder-hugo.svg"
     },
     "mbip-folder-hugo-open": {
       "iconPath": "icons/mbip-folder-hugo-open.svg"
-    },
-    "mbip-folder-kubeflow": {
-      "iconPath": "icons/mbip-folder-kubeflow.svg"
-    },
-    "mbip-folder-kubeflow-open": {
-      "iconPath": "icons/mbip-folder-kubeflow-open.svg"
-    },
-    "mbip-folder-pulsar": {
-      "iconPath": "icons/mbip-folder-pulsar.svg"
-    },
-    "mbip-folder-pulsar-open": {
-      "iconPath": "icons/mbip-folder-pulsar-open.svg"
-    },
-    "mbip-folder-ssh": {
-      "iconPath": "icons/mbip-folder-ssh.svg"
-    },
-    "mbip-folder-ssh-open": {
-      "iconPath": "icons/mbip-folder-ssh-open.svg"
-    },
-    "mbip-folder-tomcat": {
-      "iconPath": "icons/mbip-folder-tomcat.svg"
-    },
-    "mbip-folder-tomcat-open": {
-      "iconPath": "icons/mbip-folder-tomcat-open.svg"
     },
     "mbip-folder-jsx": {
       "iconPath": "icons/mbip-folder-jsx.svg"
@@ -25104,414 +24618,6 @@
     "mbip-folder-zotero-open": {
       "iconPath": "icons/mbip-folder-zotero-open.svg"
     },
-    "mbip-folder-aarch64": {
-      "iconPath": "icons/mbip-folder-aarch64.svg"
-    },
-    "mbip-folder-aarch64-open": {
-      "iconPath": "icons/mbip-folder-aarch64-open.svg"
-    },
-    "mbip-folder-aerospike": {
-      "iconPath": "icons/mbip-folder-aerospike.svg"
-    },
-    "mbip-folder-aerospike-open": {
-      "iconPath": "icons/mbip-folder-aerospike-open.svg"
-    },
-    "mbip-folder-appcelerator": {
-      "iconPath": "icons/mbip-folder-appcelerator.svg"
-    },
-    "mbip-folder-appcelerator-open": {
-      "iconPath": "icons/mbip-folder-appcelerator-open.svg"
-    },
-    "mbip-folder-azuresqldatabase": {
-      "iconPath": "icons/mbip-folder-azuresqldatabase.svg"
-    },
-    "mbip-folder-azuresqldatabase-open": {
-      "iconPath": "icons/mbip-folder-azuresqldatabase-open.svg"
-    },
-    "mbip-folder-carbon": {
-      "iconPath": "icons/mbip-folder-carbon.svg"
-    },
-    "mbip-folder-carbon-open": {
-      "iconPath": "icons/mbip-folder-carbon-open.svg"
-    },
-    "mbip-folder-clarity": {
-      "iconPath": "icons/mbip-folder-clarity.svg"
-    },
-    "mbip-folder-clarity-open": {
-      "iconPath": "icons/mbip-folder-clarity-open.svg"
-    },
-    "mbip-folder-cloudrun": {
-      "iconPath": "icons/mbip-folder-cloudrun.svg"
-    },
-    "mbip-folder-cloudrun-open": {
-      "iconPath": "icons/mbip-folder-cloudrun-open.svg"
-    },
-    "mbip-folder-codeac": {
-      "iconPath": "icons/mbip-folder-codeac.svg"
-    },
-    "mbip-folder-codeac-open": {
-      "iconPath": "icons/mbip-folder-codeac-open.svg"
-    },
-    "mbip-folder-codepen": {
-      "iconPath": "icons/mbip-folder-codepen.svg"
-    },
-    "mbip-folder-codepen-open": {
-      "iconPath": "icons/mbip-folder-codepen-open.svg"
-    },
-    "mbip-folder-dataspell": {
-      "iconPath": "icons/mbip-folder-dataspell.svg"
-    },
-    "mbip-folder-dataspell-open": {
-      "iconPath": "icons/mbip-folder-dataspell-open.svg"
-    },
-    "mbip-folder-detaspace": {
-      "iconPath": "icons/mbip-folder-detaspace.svg"
-    },
-    "mbip-folder-detaspace-open": {
-      "iconPath": "icons/mbip-folder-detaspace-open.svg"
-    },
-    "mbip-folder-devicon": {
-      "iconPath": "icons/mbip-folder-devicon.svg"
-    },
-    "mbip-folder-devicon-open": {
-      "iconPath": "icons/mbip-folder-devicon-open.svg"
-    },
-    "mbip-folder-discloud": {
-      "iconPath": "icons/mbip-folder-discloud.svg"
-    },
-    "mbip-folder-discloud-open": {
-      "iconPath": "icons/mbip-folder-discloud-open.svg"
-    },
-    "mbip-folder-dreamweaver": {
-      "iconPath": "icons/mbip-folder-dreamweaver.svg"
-    },
-    "mbip-folder-dreamweaver-open": {
-      "iconPath": "icons/mbip-folder-dreamweaver-open.svg"
-    },
-    "mbip-folder-ecto": {
-      "iconPath": "icons/mbip-folder-ecto.svg"
-    },
-    "mbip-folder-ecto-open": {
-      "iconPath": "icons/mbip-folder-ecto-open.svg"
-    },
-    "mbip-folder-firebird": {
-      "iconPath": "icons/mbip-folder-firebird.svg"
-    },
-    "mbip-folder-firebird-open": {
-      "iconPath": "icons/mbip-folder-firebird-open.svg"
-    },
-    "mbip-folder-fusion": {
-      "iconPath": "icons/mbip-folder-fusion.svg"
-    },
-    "mbip-folder-fusion-open": {
-      "iconPath": "icons/mbip-folder-fusion-open.svg"
-    },
-    "mbip-folder-gardener": {
-      "iconPath": "icons/mbip-folder-gardener.svg"
-    },
-    "mbip-folder-gardener-open": {
-      "iconPath": "icons/mbip-folder-gardener-open.svg"
-    },
-    "mbip-folder-gazebo": {
-      "iconPath": "icons/mbip-folder-gazebo.svg"
-    },
-    "mbip-folder-gazebo-open": {
-      "iconPath": "icons/mbip-folder-gazebo-open.svg"
-    },
-    "mbip-folder-harvester": {
-      "iconPath": "icons/mbip-folder-harvester.svg"
-    },
-    "mbip-folder-harvester-open": {
-      "iconPath": "icons/mbip-folder-harvester-open.svg"
-    },
-    "mbip-folder-hyperv": {
-      "iconPath": "icons/mbip-folder-hyperv.svg"
-    },
-    "mbip-folder-hyperv-open": {
-      "iconPath": "icons/mbip-folder-hyperv-open.svg"
-    },
-    "mbip-folder-ie10": {
-      "iconPath": "icons/mbip-folder-ie10.svg"
-    },
-    "mbip-folder-ie10-open": {
-      "iconPath": "icons/mbip-folder-ie10-open.svg"
-    },
-    "mbip-folder-jaegertracing": {
-      "iconPath": "icons/mbip-folder-jaegertracing.svg"
-    },
-    "mbip-folder-jaegertracing-open": {
-      "iconPath": "icons/mbip-folder-jaegertracing-open.svg"
-    },
-    "mbip-folder-jeet": {
-      "iconPath": "icons/mbip-folder-jeet.svg"
-    },
-    "mbip-folder-jeet-open": {
-      "iconPath": "icons/mbip-folder-jeet-open.svg"
-    },
-    "mbip-folder-jiraalign": {
-      "iconPath": "icons/mbip-folder-jiraalign.svg"
-    },
-    "mbip-folder-jiraalign-open": {
-      "iconPath": "icons/mbip-folder-jiraalign-open.svg"
-    },
-    "mbip-folder-k3os": {
-      "iconPath": "icons/mbip-folder-k3os.svg"
-    },
-    "mbip-folder-k3os-open": {
-      "iconPath": "icons/mbip-folder-k3os-open.svg"
-    },
-    "mbip-folder-kaldi": {
-      "iconPath": "icons/mbip-folder-kaldi.svg"
-    },
-    "mbip-folder-kaldi-open": {
-      "iconPath": "icons/mbip-folder-kaldi-open.svg"
-    },
-    "mbip-folder-karatelabs": {
-      "iconPath": "icons/mbip-folder-karatelabs.svg"
-    },
-    "mbip-folder-karatelabs-open": {
-      "iconPath": "icons/mbip-folder-karatelabs-open.svg"
-    },
-    "mbip-folder-krakenjs": {
-      "iconPath": "icons/mbip-folder-krakenjs.svg"
-    },
-    "mbip-folder-krakenjs-open": {
-      "iconPath": "icons/mbip-folder-krakenjs-open.svg"
-    },
-    "mbip-folder-laminas": {
-      "iconPath": "icons/mbip-folder-laminas.svg"
-    },
-    "mbip-folder-laminas-open": {
-      "iconPath": "icons/mbip-folder-laminas-open.svg"
-    },
-    "mbip-folder-minitab": {
-      "iconPath": "icons/mbip-folder-minitab.svg"
-    },
-    "mbip-folder-minitab-open": {
-      "iconPath": "icons/mbip-folder-minitab-open.svg"
-    },
-    "mbip-folder-nats": {
-      "iconPath": "icons/mbip-folder-nats.svg"
-    },
-    "mbip-folder-nats-open": {
-      "iconPath": "icons/mbip-folder-nats-open.svg"
-    },
-    "mbip-folder-netbox": {
-      "iconPath": "icons/mbip-folder-netbox.svg"
-    },
-    "mbip-folder-netbox-open": {
-      "iconPath": "icons/mbip-folder-netbox-open.svg"
-    },
-    "mbip-folder-networkx": {
-      "iconPath": "icons/mbip-folder-networkx.svg"
-    },
-    "mbip-folder-networkx-open": {
-      "iconPath": "icons/mbip-folder-networkx-open.svg"
-    },
-    "mbip-folder-nhibernate": {
-      "iconPath": "icons/mbip-folder-nhibernate.svg"
-    },
-    "mbip-folder-nhibernate-open": {
-      "iconPath": "icons/mbip-folder-nhibernate-open.svg"
-    },
-    "mbip-folder-nimble": {
-      "iconPath": "icons/mbip-folder-nimble.svg"
-    },
-    "mbip-folder-nimble-open": {
-      "iconPath": "icons/mbip-folder-nimble-open.svg"
-    },
-    "mbip-folder-nodewebkit": {
-      "iconPath": "icons/mbip-folder-nodewebkit.svg"
-    },
-    "mbip-folder-nodewebkit-open": {
-      "iconPath": "icons/mbip-folder-nodewebkit-open.svg"
-    },
-    "mbip-folder-norg": {
-      "iconPath": "icons/mbip-folder-norg.svg"
-    },
-    "mbip-folder-norg-open": {
-      "iconPath": "icons/mbip-folder-norg-open.svg"
-    },
-    "mbip-folder-npss": {
-      "iconPath": "icons/mbip-folder-npss.svg"
-    },
-    "mbip-folder-npss-open": {
-      "iconPath": "icons/mbip-folder-npss-open.svg"
-    },
-    "mbip-folder-openal": {
-      "iconPath": "icons/mbip-folder-openal.svg"
-    },
-    "mbip-folder-openal-open": {
-      "iconPath": "icons/mbip-folder-openal-open.svg"
-    },
-    "mbip-folder-photonengine": {
-      "iconPath": "icons/mbip-folder-photonengine.svg"
-    },
-    "mbip-folder-photonengine-open": {
-      "iconPath": "icons/mbip-folder-photonengine-open.svg"
-    },
-    "mbip-folder-premierepro": {
-      "iconPath": "icons/mbip-folder-premierepro.svg"
-    },
-    "mbip-folder-premierepro-open": {
-      "iconPath": "icons/mbip-folder-premierepro-open.svg"
-    },
-    "mbip-folder-pyscript": {
-      "iconPath": "icons/mbip-folder-pyscript.svg"
-    },
-    "mbip-folder-pyscript-open": {
-      "iconPath": "icons/mbip-folder-pyscript-open.svg"
-    },
-    "mbip-folder-qodana": {
-      "iconPath": "icons/mbip-folder-qodana.svg"
-    },
-    "mbip-folder-qodana-open": {
-      "iconPath": "icons/mbip-folder-qodana-open.svg"
-    },
-    "mbip-folder-qtest": {
-      "iconPath": "icons/mbip-folder-qtest.svg"
-    },
-    "mbip-folder-qtest-open": {
-      "iconPath": "icons/mbip-folder-qtest-open.svg"
-    },
-    "mbip-folder-realm": {
-      "iconPath": "icons/mbip-folder-realm.svg"
-    },
-    "mbip-folder-realm-open": {
-      "iconPath": "icons/mbip-folder-realm-open.svg"
-    },
-    "mbip-folder-rect": {
-      "iconPath": "icons/mbip-folder-rect.svg"
-    },
-    "mbip-folder-rect-open": {
-      "iconPath": "icons/mbip-folder-rect-open.svg"
-    },
-    "mbip-folder-scalingo": {
-      "iconPath": "icons/mbip-folder-scalingo.svg"
-    },
-    "mbip-folder-scalingo-open": {
-      "iconPath": "icons/mbip-folder-scalingo-open.svg"
-    },
-    "mbip-folder-sdl": {
-      "iconPath": "icons/mbip-folder-sdl.svg"
-    },
-    "mbip-folder-sdl-open": {
-      "iconPath": "icons/mbip-folder-sdl-open.svg"
-    },
-    "mbip-folder-sema": {
-      "iconPath": "icons/mbip-folder-sema.svg"
-    },
-    "mbip-folder-sema-open": {
-      "iconPath": "icons/mbip-folder-sema-open.svg"
-    },
-    "mbip-folder-shotgrid": {
-      "iconPath": "icons/mbip-folder-shotgrid.svg"
-    },
-    "mbip-folder-shotgrid-open": {
-      "iconPath": "icons/mbip-folder-shotgrid-open.svg"
-    },
-    "mbip-folder-slack": {
-      "iconPath": "icons/mbip-folder-slack.svg"
-    },
-    "mbip-folder-slack-open": {
-      "iconPath": "icons/mbip-folder-slack-open.svg"
-    },
-    "mbip-folder-spack": {
-      "iconPath": "icons/mbip-folder-spack.svg"
-    },
-    "mbip-folder-spack-open": {
-      "iconPath": "icons/mbip-folder-spack-open.svg"
-    },
-    "mbip-folder-spicedb": {
-      "iconPath": "icons/mbip-folder-spicedb.svg"
-    },
-    "mbip-folder-spicedb-open": {
-      "iconPath": "icons/mbip-folder-spicedb-open.svg"
-    },
-    "mbip-folder-spss": {
-      "iconPath": "icons/mbip-folder-spss.svg"
-    },
-    "mbip-folder-spss-open": {
-      "iconPath": "icons/mbip-folder-spss-open.svg"
-    },
-    "mbip-folder-sqldeveloper": {
-      "iconPath": "icons/mbip-folder-sqldeveloper.svg"
-    },
-    "mbip-folder-sqldeveloper-open": {
-      "iconPath": "icons/mbip-folder-sqldeveloper-open.svg"
-    },
-    "mbip-folder-stata": {
-      "iconPath": "icons/mbip-folder-stata.svg"
-    },
-    "mbip-folder-stata-open": {
-      "iconPath": "icons/mbip-folder-stata-open.svg"
-    },
-    "mbip-folder-sulu": {
-      "iconPath": "icons/mbip-folder-sulu.svg"
-    },
-    "mbip-folder-sulu-open": {
-      "iconPath": "icons/mbip-folder-sulu-open.svg"
-    },
-    "mbip-folder-terramate": {
-      "iconPath": "icons/mbip-folder-terramate.svg"
-    },
-    "mbip-folder-terramate-open": {
-      "iconPath": "icons/mbip-folder-terramate-open.svg"
-    },
-    "mbip-folder-titaniumsdk": {
-      "iconPath": "icons/mbip-folder-titaniumsdk.svg"
-    },
-    "mbip-folder-titaniumsdk-open": {
-      "iconPath": "icons/mbip-folder-titaniumsdk-open.svg"
-    },
-    "mbip-folder-tortoisegit": {
-      "iconPath": "icons/mbip-folder-tortoisegit.svg"
-    },
-    "mbip-folder-tortoisegit-open": {
-      "iconPath": "icons/mbip-folder-tortoisegit-open.svg"
-    },
-    "mbip-folder-towergit": {
-      "iconPath": "icons/mbip-folder-towergit.svg"
-    },
-    "mbip-folder-towergit-open": {
-      "iconPath": "icons/mbip-folder-towergit-open.svg"
-    },
-    "mbip-folder-unifiedmodelinglanguage": {
-      "iconPath": "icons/mbip-folder-unifiedmodelinglanguage.svg"
-    },
-    "mbip-folder-unifiedmodelinglanguage-open": {
-      "iconPath": "icons/mbip-folder-unifiedmodelinglanguage-open.svg"
-    },
-    "mbip-folder-uwsgi": {
-      "iconPath": "icons/mbip-folder-uwsgi.svg"
-    },
-    "mbip-folder-uwsgi-open": {
-      "iconPath": "icons/mbip-folder-uwsgi-open.svg"
-    },
-    "mbip-folder-vertx": {
-      "iconPath": "icons/mbip-folder-vertx.svg"
-    },
-    "mbip-folder-vertx-open": {
-      "iconPath": "icons/mbip-folder-vertx-open.svg"
-    },
-    "mbip-folder-vsphere": {
-      "iconPath": "icons/mbip-folder-vsphere.svg"
-    },
-    "mbip-folder-vsphere-open": {
-      "iconPath": "icons/mbip-folder-vsphere-open.svg"
-    },
-    "mbip-folder-waku": {
-      "iconPath": "icons/mbip-folder-waku.svg"
-    },
-    "mbip-folder-waku-open": {
-      "iconPath": "icons/mbip-folder-waku-open.svg"
-    },
-    "mbip-folder-windows8": {
-      "iconPath": "icons/mbip-folder-windows8.svg"
-    },
-    "mbip-folder-windows8-open": {
-      "iconPath": "icons/mbip-folder-windows8-open.svg"
-    },
     "mbip-folder-apiextractor": {
       "iconPath": "icons/mbip-folder-apiextractor.svg"
     },
@@ -27063,153 +26169,6 @@
     "mbip-file-gitlfs": {
       "iconPath": "icons/mbip-file-gitlfs.svg"
     },
-    "mbip-file-apex": {
-      "iconPath": "icons/mbip-file-apex.svg"
-    },
-    "mbip-file-bash": {
-      "iconPath": "icons/mbip-file-bash.svg"
-    },
-    "mbip-file-embeddedc": {
-      "iconPath": "icons/mbip-file-embeddedc.svg"
-    },
-    "mbip-file-grpc": {
-      "iconPath": "icons/mbip-file-grpc.svg"
-    },
-    "mbip-file-matplotlib": {
-      "iconPath": "icons/mbip-file-matplotlib.svg"
-    },
-    "mbip-file-pixijs": {
-      "iconPath": "icons/mbip-file-pixijs.svg"
-    },
-    "mbip-file-p5js": {
-      "iconPath": "icons/mbip-file-p5js.svg"
-    },
-    "mbip-file-rxjs": {
-      "iconPath": "icons/mbip-file-rxjs.svg"
-    },
-    "mbip-file-reactnative": {
-      "iconPath": "icons/mbip-file-reactnative.svg"
-    },
-    "mbip-file-reactnavigation": {
-      "iconPath": "icons/mbip-file-reactnavigation.svg"
-    },
-    "mbip-file-zustand": {
-      "iconPath": "icons/mbip-file-zustand.svg"
-    },
-    "mbip-file-vuestorefront": {
-      "iconPath": "icons/mbip-file-vuestorefront.svg"
-    },
-    "mbip-file-grails": {
-      "iconPath": "icons/mbip-file-grails.svg"
-    },
-    "mbip-file-dropwizard": {
-      "iconPath": "icons/mbip-file-dropwizard.svg"
-    },
-    "mbip-file-entityframeworkcore": {
-      "iconPath": "icons/mbip-file-entityframeworkcore.svg"
-    },
-    "mbip-file-dotnetcore": {
-      "iconPath": "icons/mbip-file-dotnetcore.svg"
-    },
-    "mbip-file-love2d": {
-      "iconPath": "icons/mbip-file-love2d.svg"
-    },
-    "mbip-file-bevyengine": {
-      "iconPath": "icons/mbip-file-bevyengine.svg"
-    },
-    "mbip-file-babylonjs": {
-      "iconPath": "icons/mbip-file-babylonjs.svg"
-    },
-    "mbip-file-filamentphp": {
-      "iconPath": "icons/mbip-file-filamentphp.svg"
-    },
-    "mbip-file-djangorest": {
-      "iconPath": "icons/mbip-file-djangorest.svg"
-    },
-    "mbip-file-libgdx": {
-      "iconPath": "icons/mbip-file-libgdx.svg"
-    },
-    "mbip-file-oracle": {
-      "iconPath": "icons/mbip-file-oracle.svg"
-    },
-    "mbip-file-cassandra": {
-      "iconPath": "icons/mbip-file-cassandra.svg"
-    },
-    "mbip-file-couchdb": {
-      "iconPath": "icons/mbip-file-couchdb.svg"
-    },
-    "mbip-file-dynamodb": {
-      "iconPath": "icons/mbip-file-dynamodb.svg"
-    },
-    "mbip-file-faunadb": {
-      "iconPath": "icons/mbip-file-faunadb.svg"
-    },
-    "mbip-file-cosmosdb": {
-      "iconPath": "icons/mbip-file-cosmosdb.svg"
-    },
-    "mbip-file-memcached": {
-      "iconPath": "icons/mbip-file-memcached.svg"
-    },
-    "mbip-file-hadoop": {
-      "iconPath": "icons/mbip-file-hadoop.svg"
-    },
-    "mbip-file-microsoftsqlserver": {
-      "iconPath": "icons/mbip-file-microsoftsqlserver.svg"
-    },
-    "mbip-file-yugabytedb": {
-      "iconPath": "icons/mbip-file-yugabytedb.svg"
-    },
-    "mbip-file-netbeans": {
-      "iconPath": "icons/mbip-file-netbeans.svg"
-    },
-    "mbip-file-ohmyzsh": {
-      "iconPath": "icons/mbip-file-ohmyzsh.svg"
-    },
-    "mbip-file-putty": {
-      "iconPath": "icons/mbip-file-putty.svg"
-    },
-    "mbip-file-unix": {
-      "iconPath": "icons/mbip-file-unix.svg"
-    },
-    "mbip-file-msdos": {
-      "iconPath": "icons/mbip-file-msdos.svg"
-    },
-    "mbip-file-junit": {
-      "iconPath": "icons/mbip-file-junit.svg"
-    },
-    "mbip-file-threedsmax": {
-      "iconPath": "icons/mbip-file-threedsmax.svg"
-    },
-    "mbip-file-aftereffects": {
-      "iconPath": "icons/mbip-file-aftereffects.svg"
-    },
-    "mbip-file-photoshop": {
-      "iconPath": "icons/mbip-file-photoshop.svg"
-    },
-    "mbip-file-illustrator": {
-      "iconPath": "icons/mbip-file-illustrator.svg"
-    },
-    "mbip-file-xd": {
-      "iconPath": "icons/mbip-file-xd.svg"
-    },
-    "mbip-file-canva": {
-      "iconPath": "icons/mbip-file-canva.svg"
-    },
-    "mbip-file-twilio": {
-      "iconPath": "icons/mbip-file-twilio.svg"
-    },
-    "mbip-file-linkedin": {
-      "iconPath": "icons/mbip-file-linkedin.svg"
-    },
-    "mbip-file-twitter": {
-      "iconPath": "icons/mbip-file-twitter.svg"
-    },
-    "mbip-file-oauth": {
-      "iconPath": "icons/mbip-file-oauth.svg"
-    },
-    "mbip-file-windows11": {
-      "iconPath": "icons/mbip-file-windows11.svg"
-    },
     "mbip-file-ahk": {
       "iconPath": "icons/mbip-file-ahk.svg"
     },
@@ -28743,38 +27702,14 @@
     "mbip-file-zyte": {
       "iconPath": "icons/mbip-file-zyte.svg"
     },
-    "mbip-file-clojurescript": {
-      "iconPath": "icons/mbip-file-clojurescript.svg"
-    },
-    "mbip-file-visualbasic": {
-      "iconPath": "icons/mbip-file-visualbasic.svg"
-    },
     "mbip-file-vulkan": {
       "iconPath": "icons/mbip-file-vulkan.svg"
     },
     "mbip-file-hibernate": {
       "iconPath": "icons/mbip-file-hibernate.svg"
     },
-    "mbip-file-veevalidate": {
-      "iconPath": "icons/mbip-file-veevalidate.svg"
-    },
-    "mbip-file-cypressio": {
-      "iconPath": "icons/mbip-file-cypressio.svg"
-    },
-    "mbip-file-gcc": {
-      "iconPath": "icons/mbip-file-gcc.svg"
-    },
     "mbip-file-homebrew": {
       "iconPath": "icons/mbip-file-homebrew.svg"
-    },
-    "mbip-file-envoy": {
-      "iconPath": "icons/mbip-file-envoy.svg"
-    },
-    "mbip-file-teleport": {
-      "iconPath": "icons/mbip-file-teleport.svg"
-    },
-    "mbip-file-spyder": {
-      "iconPath": "icons/mbip-file-spyder.svg"
     },
     "mbip-file-facebook": {
       "iconPath": "icons/mbip-file-facebook.svg"
@@ -28787,9 +27722,6 @@
     },
     "mbip-file-leetcode": {
       "iconPath": "icons/mbip-file-leetcode.svg"
-    },
-    "mbip-file-css3": {
-      "iconPath": "icons/mbip-file-css3.svg"
     },
     "mbip-file-apachegroovy": {
       "iconPath": "icons/mbip-file-apachegroovy.svg"
@@ -30102,80 +29034,11 @@
     "mbip-file-qubesos": {
       "iconPath": "icons/mbip-file-qubesos.svg"
     },
-    "mbip-file-jule": {
-      "iconPath": "icons/mbip-file-jule.svg"
-    },
-    "mbip-file-akka": {
-      "iconPath": "icons/mbip-file-akka.svg"
-    },
-    "mbip-file-angularmaterial": {
-      "iconPath": "icons/mbip-file-angularmaterial.svg"
-    },
-    "mbip-file-datatables": {
-      "iconPath": "icons/mbip-file-datatables.svg"
-    },
-    "mbip-file-feathersjs": {
-      "iconPath": "icons/mbip-file-feathersjs.svg"
-    },
-    "mbip-file-fiber": {
-      "iconPath": "icons/mbip-file-fiber.svg"
-    },
-    "mbip-file-foundation": {
-      "iconPath": "icons/mbip-file-foundation.svg"
-    },
-    "mbip-file-framermotion": {
-      "iconPath": "icons/mbip-file-framermotion.svg"
-    },
-    "mbip-file-laraveljetstream": {
-      "iconPath": "icons/mbip-file-laraveljetstream.svg"
-    },
-    "mbip-file-magento": {
-      "iconPath": "icons/mbip-file-magento.svg"
-    },
-    "mbip-file-materializecss": {
-      "iconPath": "icons/mbip-file-materializecss.svg"
-    },
-    "mbip-file-materialui": {
-      "iconPath": "icons/mbip-file-materialui.svg"
-    },
-    "mbip-file-mithril": {
-      "iconPath": "icons/mbip-file-mithril.svg"
-    },
     "mbip-file-moodle": {
       "iconPath": "icons/mbip-file-moodle.svg"
     },
-    "mbip-file-socketio": {
-      "iconPath": "icons/mbip-file-socketio.svg"
-    },
-    "mbip-file-xamarin": {
-      "iconPath": "icons/mbip-file-xamarin.svg"
-    },
-    "mbip-file-argocd": {
-      "iconPath": "icons/mbip-file-argocd.svg"
-    },
-    "mbip-file-azuredevops": {
-      "iconPath": "icons/mbip-file-azuredevops.svg"
-    },
-    "mbip-file-browserstack": {
-      "iconPath": "icons/mbip-file-browserstack.svg"
-    },
-    "mbip-file-githubcodespaces": {
-      "iconPath": "icons/mbip-file-githubcodespaces.svg"
-    },
     "mbip-file-hugo": {
       "iconPath": "icons/mbip-file-hugo.svg"
-    },
-    "mbip-file-kubeflow": {
-      "iconPath": "icons/mbip-file-kubeflow.svg"
-    },
-    "mbip-file-pulsar": {
-      "iconPath": "icons/mbip-file-pulsar.svg"
-    },
-    "mbip-file-ssh": {
-      "iconPath": "icons/mbip-file-ssh.svg"
-    },
-    "mbip-file-tomcat": {
-      "iconPath": "icons/mbip-file-tomcat.svg"
     },
     "mbip-file-jsx": {
       "iconPath": "icons/mbip-file-jsx.svg"
@@ -30260,210 +29123,6 @@
     },
     "mbip-file-access": {
       "iconPath": "icons/mbip-file-access.svg"
-    },
-    "mbip-file-aarch64": {
-      "iconPath": "icons/mbip-file-aarch64.svg"
-    },
-    "mbip-file-aerospike": {
-      "iconPath": "icons/mbip-file-aerospike.svg"
-    },
-    "mbip-file-appcelerator": {
-      "iconPath": "icons/mbip-file-appcelerator.svg"
-    },
-    "mbip-file-azuresqldatabase": {
-      "iconPath": "icons/mbip-file-azuresqldatabase.svg"
-    },
-    "mbip-file-carbon": {
-      "iconPath": "icons/mbip-file-carbon.svg"
-    },
-    "mbip-file-clarity": {
-      "iconPath": "icons/mbip-file-clarity.svg"
-    },
-    "mbip-file-cloudrun": {
-      "iconPath": "icons/mbip-file-cloudrun.svg"
-    },
-    "mbip-file-codeac": {
-      "iconPath": "icons/mbip-file-codeac.svg"
-    },
-    "mbip-file-codepen": {
-      "iconPath": "icons/mbip-file-codepen.svg"
-    },
-    "mbip-file-dataspell": {
-      "iconPath": "icons/mbip-file-dataspell.svg"
-    },
-    "mbip-file-detaspace": {
-      "iconPath": "icons/mbip-file-detaspace.svg"
-    },
-    "mbip-file-devicon": {
-      "iconPath": "icons/mbip-file-devicon.svg"
-    },
-    "mbip-file-discloud": {
-      "iconPath": "icons/mbip-file-discloud.svg"
-    },
-    "mbip-file-dreamweaver": {
-      "iconPath": "icons/mbip-file-dreamweaver.svg"
-    },
-    "mbip-file-ecto": {
-      "iconPath": "icons/mbip-file-ecto.svg"
-    },
-    "mbip-file-firebird": {
-      "iconPath": "icons/mbip-file-firebird.svg"
-    },
-    "mbip-file-fusion": {
-      "iconPath": "icons/mbip-file-fusion.svg"
-    },
-    "mbip-file-gardener": {
-      "iconPath": "icons/mbip-file-gardener.svg"
-    },
-    "mbip-file-gazebo": {
-      "iconPath": "icons/mbip-file-gazebo.svg"
-    },
-    "mbip-file-harvester": {
-      "iconPath": "icons/mbip-file-harvester.svg"
-    },
-    "mbip-file-hyperv": {
-      "iconPath": "icons/mbip-file-hyperv.svg"
-    },
-    "mbip-file-ie10": {
-      "iconPath": "icons/mbip-file-ie10.svg"
-    },
-    "mbip-file-jaegertracing": {
-      "iconPath": "icons/mbip-file-jaegertracing.svg"
-    },
-    "mbip-file-jeet": {
-      "iconPath": "icons/mbip-file-jeet.svg"
-    },
-    "mbip-file-jiraalign": {
-      "iconPath": "icons/mbip-file-jiraalign.svg"
-    },
-    "mbip-file-k3os": {
-      "iconPath": "icons/mbip-file-k3os.svg"
-    },
-    "mbip-file-kaldi": {
-      "iconPath": "icons/mbip-file-kaldi.svg"
-    },
-    "mbip-file-karatelabs": {
-      "iconPath": "icons/mbip-file-karatelabs.svg"
-    },
-    "mbip-file-krakenjs": {
-      "iconPath": "icons/mbip-file-krakenjs.svg"
-    },
-    "mbip-file-laminas": {
-      "iconPath": "icons/mbip-file-laminas.svg"
-    },
-    "mbip-file-minitab": {
-      "iconPath": "icons/mbip-file-minitab.svg"
-    },
-    "mbip-file-nats": {
-      "iconPath": "icons/mbip-file-nats.svg"
-    },
-    "mbip-file-netbox": {
-      "iconPath": "icons/mbip-file-netbox.svg"
-    },
-    "mbip-file-networkx": {
-      "iconPath": "icons/mbip-file-networkx.svg"
-    },
-    "mbip-file-nhibernate": {
-      "iconPath": "icons/mbip-file-nhibernate.svg"
-    },
-    "mbip-file-nimble": {
-      "iconPath": "icons/mbip-file-nimble.svg"
-    },
-    "mbip-file-nodewebkit": {
-      "iconPath": "icons/mbip-file-nodewebkit.svg"
-    },
-    "mbip-file-norg": {
-      "iconPath": "icons/mbip-file-norg.svg"
-    },
-    "mbip-file-npss": {
-      "iconPath": "icons/mbip-file-npss.svg"
-    },
-    "mbip-file-openal": {
-      "iconPath": "icons/mbip-file-openal.svg"
-    },
-    "mbip-file-photonengine": {
-      "iconPath": "icons/mbip-file-photonengine.svg"
-    },
-    "mbip-file-premierepro": {
-      "iconPath": "icons/mbip-file-premierepro.svg"
-    },
-    "mbip-file-pyscript": {
-      "iconPath": "icons/mbip-file-pyscript.svg"
-    },
-    "mbip-file-qodana": {
-      "iconPath": "icons/mbip-file-qodana.svg"
-    },
-    "mbip-file-qtest": {
-      "iconPath": "icons/mbip-file-qtest.svg"
-    },
-    "mbip-file-realm": {
-      "iconPath": "icons/mbip-file-realm.svg"
-    },
-    "mbip-file-rect": {
-      "iconPath": "icons/mbip-file-rect.svg"
-    },
-    "mbip-file-scalingo": {
-      "iconPath": "icons/mbip-file-scalingo.svg"
-    },
-    "mbip-file-sdl": {
-      "iconPath": "icons/mbip-file-sdl.svg"
-    },
-    "mbip-file-sema": {
-      "iconPath": "icons/mbip-file-sema.svg"
-    },
-    "mbip-file-shotgrid": {
-      "iconPath": "icons/mbip-file-shotgrid.svg"
-    },
-    "mbip-file-slack": {
-      "iconPath": "icons/mbip-file-slack.svg"
-    },
-    "mbip-file-spack": {
-      "iconPath": "icons/mbip-file-spack.svg"
-    },
-    "mbip-file-spicedb": {
-      "iconPath": "icons/mbip-file-spicedb.svg"
-    },
-    "mbip-file-spss": {
-      "iconPath": "icons/mbip-file-spss.svg"
-    },
-    "mbip-file-sqldeveloper": {
-      "iconPath": "icons/mbip-file-sqldeveloper.svg"
-    },
-    "mbip-file-stata": {
-      "iconPath": "icons/mbip-file-stata.svg"
-    },
-    "mbip-file-sulu": {
-      "iconPath": "icons/mbip-file-sulu.svg"
-    },
-    "mbip-file-terramate": {
-      "iconPath": "icons/mbip-file-terramate.svg"
-    },
-    "mbip-file-titaniumsdk": {
-      "iconPath": "icons/mbip-file-titaniumsdk.svg"
-    },
-    "mbip-file-tortoisegit": {
-      "iconPath": "icons/mbip-file-tortoisegit.svg"
-    },
-    "mbip-file-towergit": {
-      "iconPath": "icons/mbip-file-towergit.svg"
-    },
-    "mbip-file-unifiedmodelinglanguage": {
-      "iconPath": "icons/mbip-file-unifiedmodelinglanguage.svg"
-    },
-    "mbip-file-uwsgi": {
-      "iconPath": "icons/mbip-file-uwsgi.svg"
-    },
-    "mbip-file-vertx": {
-      "iconPath": "icons/mbip-file-vertx.svg"
-    },
-    "mbip-file-vsphere": {
-      "iconPath": "icons/mbip-file-vsphere.svg"
-    },
-    "mbip-file-waku": {
-      "iconPath": "icons/mbip-file-waku.svg"
-    },
-    "mbip-file-windows8": {
-      "iconPath": "icons/mbip-file-windows8.svg"
     },
     "mbip-file-apiextractor": {
       "iconPath": "icons/mbip-file-apiextractor.svg"
@@ -33664,7 +32323,7 @@
     "_linuxbsd": "folder-linux",
     "-linuxbsd": "folder-linux",
     "__linuxbsd__": "folder-linux",
-    "unix": "mbip-folder-unix",
+    "unix": "folder-linux",
     ".unix": "folder-linux",
     "_unix": "folder-linux",
     "-unix": "folder-linux",
@@ -33724,7 +32383,7 @@
     "_win32": "folder-windows",
     "-win32": "folder-windows",
     "__win32__": "folder-windows",
-    "windows11": "mbip-folder-windows11",
+    "windows11": "folder-windows",
     ".windows11": "folder-windows",
     "_windows11": "folder-windows",
     "-windows11": "folder-windows",
@@ -35495,6 +34154,14 @@
     "functional": "folder-test",
     "exceptions": "folder-error",
     "anticaptcha": "folder-secure",
+    "bugs-fix": "folder-debug",
+    "bugs-to-fix": "folder-debug",
+    "bugs_to_fix": "folder-debug",
+    "audit": "folder-review",
+    "implementations": "folder-core",
+    "new_features": "folder-features",
+    "new-features": "folder-features",
+    "deploy": "folder-dist",
     "angelscript": "mbip-folder-angelscript",
     "awk": "mbip-folder-awk",
     "cl": "mbip-folder-cl",
@@ -35832,53 +34499,6 @@
     "gitbook": "mbip-folder-gitbook",
     "gitee": "mbip-folder-gitee",
     "gitlfs": "mbip-folder-gitlfs",
-    "apex": "mbip-folder-apex",
-    "bash": "mbip-folder-bash",
-    "embeddedc": "mbip-folder-embeddedc",
-    "grpc": "mbip-folder-grpc",
-    "matplotlib": "mbip-folder-matplotlib",
-    "pixijs": "mbip-folder-pixijs",
-    "p5js": "mbip-folder-p5js",
-    "rxjs": "mbip-folder-rxjs",
-    "reactnative": "mbip-folder-reactnative",
-    "reactnavigation": "mbip-folder-reactnavigation",
-    "zustand": "mbip-folder-zustand",
-    "vuestorefront": "mbip-folder-vuestorefront",
-    "grails": "mbip-folder-grails",
-    "dropwizard": "mbip-folder-dropwizard",
-    "entityframeworkcore": "mbip-folder-entityframeworkcore",
-    "dotnetcore": "mbip-folder-dotnetcore",
-    "love2d": "mbip-folder-love2d",
-    "bevyengine": "mbip-folder-bevyengine",
-    "babylonjs": "mbip-folder-babylonjs",
-    "filamentphp": "mbip-folder-filamentphp",
-    "djangorest": "mbip-folder-djangorest",
-    "libgdx": "mbip-folder-libgdx",
-    "oracle": "mbip-folder-oracle",
-    "cassandra": "mbip-folder-cassandra",
-    "couchdb": "mbip-folder-couchdb",
-    "dynamodb": "mbip-folder-dynamodb",
-    "faunadb": "mbip-folder-faunadb",
-    "cosmosdb": "mbip-folder-cosmosdb",
-    "memcached": "mbip-folder-memcached",
-    "hadoop": "mbip-folder-hadoop",
-    "microsoftsqlserver": "mbip-folder-microsoftsqlserver",
-    "yugabytedb": "mbip-folder-yugabytedb",
-    "netbeans": "mbip-folder-netbeans",
-    "ohmyzsh": "mbip-folder-ohmyzsh",
-    "putty": "mbip-folder-putty",
-    "msdos": "mbip-folder-msdos",
-    "junit": "mbip-folder-junit",
-    "threedsmax": "mbip-folder-threedsmax",
-    "aftereffects": "mbip-folder-aftereffects",
-    "photoshop": "mbip-folder-photoshop",
-    "illustrator": "mbip-folder-illustrator",
-    "xd": "mbip-folder-xd",
-    "canva": "mbip-folder-canva",
-    "twilio": "mbip-folder-twilio",
-    "linkedin": "mbip-folder-linkedin",
-    "twitter": "mbip-folder-twitter",
-    "oauth": "mbip-folder-oauth",
     "ahk": "mbip-folder-ahk",
     "as": "mbip-folder-as",
     "asp": "mbip-folder-asp",
@@ -36426,22 +35046,13 @@
     "sap": "mbip-folder-sap",
     "samsung": "mbip-folder-samsung",
     "x": "mbip-folder-x",
-    "clojurescript": "mbip-folder-clojurescript",
-    "visualbasic": "mbip-folder-visualbasic",
     "vulkan": "mbip-folder-vulkan",
     "hibernate": "mbip-folder-hibernate",
-    "veevalidate": "mbip-folder-veevalidate",
-    "cypressio": "mbip-folder-cypressio",
-    "gcc": "mbip-folder-gcc",
     "homebrew": "mbip-folder-homebrew",
-    "envoy": "mbip-folder-envoy",
-    "teleport": "mbip-folder-teleport",
-    "spyder": "mbip-folder-spyder",
     "facebook": "mbip-folder-facebook",
     "stackoverflow": "mbip-folder-stackoverflow",
     "raspberrypi": "mbip-folder-raspberrypi",
     "leetcode": "mbip-folder-leetcode",
-    "css3": "mbip-folder-css3",
     "apachegroovy": "mbip-folder-apachegroovy",
     "micropython": "mbip-folder-micropython",
     "processingfoundation": "mbip-folder-processingfoundation",
@@ -37013,31 +35624,8 @@
     "web3dotjs": "mbip-folder-web3dotjs",
     "xrp": "mbip-folder-xrp",
     "zcash": "mbip-folder-zcash",
-    "jule": "mbip-folder-jule",
-    "akka": "mbip-folder-akka",
-    "angularmaterial": "mbip-folder-angularmaterial",
-    "datatables": "mbip-folder-datatables",
-    "feathersjs": "mbip-folder-feathersjs",
-    "fiber": "mbip-folder-fiber",
-    "foundation": "mbip-folder-foundation",
-    "framermotion": "mbip-folder-framermotion",
-    "laraveljetstream": "mbip-folder-laraveljetstream",
-    "magento": "mbip-folder-magento",
-    "materializecss": "mbip-folder-materializecss",
-    "materialui": "mbip-folder-materialui",
-    "mithril": "mbip-folder-mithril",
     "moodle": "mbip-folder-moodle",
-    "socketio": "mbip-folder-socketio",
-    "xamarin": "mbip-folder-xamarin",
-    "argocd": "mbip-folder-argocd",
-    "azuredevops": "mbip-folder-azuredevops",
-    "browserstack": "mbip-folder-browserstack",
-    "githubcodespaces": "mbip-folder-githubcodespaces",
     "hugo": "mbip-folder-hugo",
-    "kubeflow": "mbip-folder-kubeflow",
-    "pulsar": "mbip-folder-pulsar",
-    "ssh": "mbip-folder-ssh",
-    "tomcat": "mbip-folder-tomcat",
     "jsx": "mbip-folder-jsx",
     "tsx": "mbip-folder-tsx",
     "modelica": "mbip-folder-modelica",
@@ -38852,74 +37440,6 @@
     "zoiper": "mbip-folder-zoiper",
     "zomato": "mbip-folder-zomato",
     "zotero": "mbip-folder-zotero",
-    "aarch64": "mbip-folder-aarch64",
-    "aerospike": "mbip-folder-aerospike",
-    "appcelerator": "mbip-folder-appcelerator",
-    "azuresqldatabase": "mbip-folder-azuresqldatabase",
-    "carbon": "mbip-folder-carbon",
-    "clarity": "mbip-folder-clarity",
-    "cloudrun": "mbip-folder-cloudrun",
-    "codeac": "mbip-folder-codeac",
-    "codepen": "mbip-folder-codepen",
-    "dataspell": "mbip-folder-dataspell",
-    "detaspace": "mbip-folder-detaspace",
-    "devicon": "mbip-folder-devicon",
-    "discloud": "mbip-folder-discloud",
-    "dreamweaver": "mbip-folder-dreamweaver",
-    "ecto": "mbip-folder-ecto",
-    "firebird": "mbip-folder-firebird",
-    "fusion": "mbip-folder-fusion",
-    "gardener": "mbip-folder-gardener",
-    "gazebo": "mbip-folder-gazebo",
-    "harvester": "mbip-folder-harvester",
-    "hyperv": "mbip-folder-hyperv",
-    "ie10": "mbip-folder-ie10",
-    "jaegertracing": "mbip-folder-jaegertracing",
-    "jeet": "mbip-folder-jeet",
-    "jiraalign": "mbip-folder-jiraalign",
-    "k3os": "mbip-folder-k3os",
-    "kaldi": "mbip-folder-kaldi",
-    "karatelabs": "mbip-folder-karatelabs",
-    "krakenjs": "mbip-folder-krakenjs",
-    "laminas": "mbip-folder-laminas",
-    "minitab": "mbip-folder-minitab",
-    "nats": "mbip-folder-nats",
-    "netbox": "mbip-folder-netbox",
-    "networkx": "mbip-folder-networkx",
-    "nhibernate": "mbip-folder-nhibernate",
-    "nimble": "mbip-folder-nimble",
-    "nodewebkit": "mbip-folder-nodewebkit",
-    "norg": "mbip-folder-norg",
-    "npss": "mbip-folder-npss",
-    "openal": "mbip-folder-openal",
-    "photonengine": "mbip-folder-photonengine",
-    "premierepro": "mbip-folder-premierepro",
-    "pyscript": "mbip-folder-pyscript",
-    "qodana": "mbip-folder-qodana",
-    "qtest": "mbip-folder-qtest",
-    "realm": "mbip-folder-realm",
-    "rect": "mbip-folder-rect",
-    "scalingo": "mbip-folder-scalingo",
-    "sdl": "mbip-folder-sdl",
-    "sema": "mbip-folder-sema",
-    "shotgrid": "mbip-folder-shotgrid",
-    "slack": "mbip-folder-slack",
-    "spack": "mbip-folder-spack",
-    "spicedb": "mbip-folder-spicedb",
-    "spss": "mbip-folder-spss",
-    "sqldeveloper": "mbip-folder-sqldeveloper",
-    "stata": "mbip-folder-stata",
-    "sulu": "mbip-folder-sulu",
-    "terramate": "mbip-folder-terramate",
-    "titaniumsdk": "mbip-folder-titaniumsdk",
-    "tortoisegit": "mbip-folder-tortoisegit",
-    "towergit": "mbip-folder-towergit",
-    "unifiedmodelinglanguage": "mbip-folder-unifiedmodelinglanguage",
-    "uwsgi": "mbip-folder-uwsgi",
-    "vertx": "mbip-folder-vertx",
-    "vsphere": "mbip-folder-vsphere",
-    "waku": "mbip-folder-waku",
-    "windows8": "mbip-folder-windows8",
     "apiextractor": "mbip-folder-apiextractor",
     "atoum": "mbip-folder-atoum",
     "bazaar": "mbip-folder-bazaar",
@@ -41945,7 +40465,7 @@
     "_linuxbsd": "folder-linux-open",
     "-linuxbsd": "folder-linux-open",
     "__linuxbsd__": "folder-linux-open",
-    "unix": "mbip-folder-unix-open",
+    "unix": "folder-linux-open",
     ".unix": "folder-linux-open",
     "_unix": "folder-linux-open",
     "-unix": "folder-linux-open",
@@ -42005,7 +40525,7 @@
     "_win32": "folder-windows-open",
     "-win32": "folder-windows-open",
     "__win32__": "folder-windows-open",
-    "windows11": "mbip-folder-windows11-open",
+    "windows11": "folder-windows-open",
     ".windows11": "folder-windows-open",
     "_windows11": "folder-windows-open",
     "-windows11": "folder-windows-open",
@@ -43776,6 +42296,14 @@
     "functional": "folder-test-open",
     "exceptions": "folder-error-open",
     "anticaptcha": "folder-secure-open",
+    "bugs-fix": "folder-debug-open",
+    "bugs-to-fix": "folder-debug-open",
+    "bugs_to_fix": "folder-debug-open",
+    "audit": "folder-review-open",
+    "implementations": "folder-core-open",
+    "new_features": "folder-features-open",
+    "new-features": "folder-features-open",
+    "deploy": "folder-dist-open",
     "angelscript": "mbip-folder-angelscript-open",
     "awk": "mbip-folder-awk-open",
     "cl": "mbip-folder-cl-open",
@@ -44113,53 +42641,6 @@
     "gitbook": "mbip-folder-gitbook-open",
     "gitee": "mbip-folder-gitee-open",
     "gitlfs": "mbip-folder-gitlfs-open",
-    "apex": "mbip-folder-apex-open",
-    "bash": "mbip-folder-bash-open",
-    "embeddedc": "mbip-folder-embeddedc-open",
-    "grpc": "mbip-folder-grpc-open",
-    "matplotlib": "mbip-folder-matplotlib-open",
-    "pixijs": "mbip-folder-pixijs-open",
-    "p5js": "mbip-folder-p5js-open",
-    "rxjs": "mbip-folder-rxjs-open",
-    "reactnative": "mbip-folder-reactnative-open",
-    "reactnavigation": "mbip-folder-reactnavigation-open",
-    "zustand": "mbip-folder-zustand-open",
-    "vuestorefront": "mbip-folder-vuestorefront-open",
-    "grails": "mbip-folder-grails-open",
-    "dropwizard": "mbip-folder-dropwizard-open",
-    "entityframeworkcore": "mbip-folder-entityframeworkcore-open",
-    "dotnetcore": "mbip-folder-dotnetcore-open",
-    "love2d": "mbip-folder-love2d-open",
-    "bevyengine": "mbip-folder-bevyengine-open",
-    "babylonjs": "mbip-folder-babylonjs-open",
-    "filamentphp": "mbip-folder-filamentphp-open",
-    "djangorest": "mbip-folder-djangorest-open",
-    "libgdx": "mbip-folder-libgdx-open",
-    "oracle": "mbip-folder-oracle-open",
-    "cassandra": "mbip-folder-cassandra-open",
-    "couchdb": "mbip-folder-couchdb-open",
-    "dynamodb": "mbip-folder-dynamodb-open",
-    "faunadb": "mbip-folder-faunadb-open",
-    "cosmosdb": "mbip-folder-cosmosdb-open",
-    "memcached": "mbip-folder-memcached-open",
-    "hadoop": "mbip-folder-hadoop-open",
-    "microsoftsqlserver": "mbip-folder-microsoftsqlserver-open",
-    "yugabytedb": "mbip-folder-yugabytedb-open",
-    "netbeans": "mbip-folder-netbeans-open",
-    "ohmyzsh": "mbip-folder-ohmyzsh-open",
-    "putty": "mbip-folder-putty-open",
-    "msdos": "mbip-folder-msdos-open",
-    "junit": "mbip-folder-junit-open",
-    "threedsmax": "mbip-folder-threedsmax-open",
-    "aftereffects": "mbip-folder-aftereffects-open",
-    "photoshop": "mbip-folder-photoshop-open",
-    "illustrator": "mbip-folder-illustrator-open",
-    "xd": "mbip-folder-xd-open",
-    "canva": "mbip-folder-canva-open",
-    "twilio": "mbip-folder-twilio-open",
-    "linkedin": "mbip-folder-linkedin-open",
-    "twitter": "mbip-folder-twitter-open",
-    "oauth": "mbip-folder-oauth-open",
     "ahk": "mbip-folder-ahk-open",
     "as": "mbip-folder-as-open",
     "asp": "mbip-folder-asp-open",
@@ -44707,22 +43188,13 @@
     "sap": "mbip-folder-sap-open",
     "samsung": "mbip-folder-samsung-open",
     "x": "mbip-folder-x-open",
-    "clojurescript": "mbip-folder-clojurescript-open",
-    "visualbasic": "mbip-folder-visualbasic-open",
     "vulkan": "mbip-folder-vulkan-open",
     "hibernate": "mbip-folder-hibernate-open",
-    "veevalidate": "mbip-folder-veevalidate-open",
-    "cypressio": "mbip-folder-cypressio-open",
-    "gcc": "mbip-folder-gcc-open",
     "homebrew": "mbip-folder-homebrew-open",
-    "envoy": "mbip-folder-envoy-open",
-    "teleport": "mbip-folder-teleport-open",
-    "spyder": "mbip-folder-spyder-open",
     "facebook": "mbip-folder-facebook-open",
     "stackoverflow": "mbip-folder-stackoverflow-open",
     "raspberrypi": "mbip-folder-raspberrypi-open",
     "leetcode": "mbip-folder-leetcode-open",
-    "css3": "mbip-folder-css3-open",
     "apachegroovy": "mbip-folder-apachegroovy-open",
     "micropython": "mbip-folder-micropython-open",
     "processingfoundation": "mbip-folder-processingfoundation-open",
@@ -45294,31 +43766,8 @@
     "web3dotjs": "mbip-folder-web3dotjs-open",
     "xrp": "mbip-folder-xrp-open",
     "zcash": "mbip-folder-zcash-open",
-    "jule": "mbip-folder-jule-open",
-    "akka": "mbip-folder-akka-open",
-    "angularmaterial": "mbip-folder-angularmaterial-open",
-    "datatables": "mbip-folder-datatables-open",
-    "feathersjs": "mbip-folder-feathersjs-open",
-    "fiber": "mbip-folder-fiber-open",
-    "foundation": "mbip-folder-foundation-open",
-    "framermotion": "mbip-folder-framermotion-open",
-    "laraveljetstream": "mbip-folder-laraveljetstream-open",
-    "magento": "mbip-folder-magento-open",
-    "materializecss": "mbip-folder-materializecss-open",
-    "materialui": "mbip-folder-materialui-open",
-    "mithril": "mbip-folder-mithril-open",
     "moodle": "mbip-folder-moodle-open",
-    "socketio": "mbip-folder-socketio-open",
-    "xamarin": "mbip-folder-xamarin-open",
-    "argocd": "mbip-folder-argocd-open",
-    "azuredevops": "mbip-folder-azuredevops-open",
-    "browserstack": "mbip-folder-browserstack-open",
-    "githubcodespaces": "mbip-folder-githubcodespaces-open",
     "hugo": "mbip-folder-hugo-open",
-    "kubeflow": "mbip-folder-kubeflow-open",
-    "pulsar": "mbip-folder-pulsar-open",
-    "ssh": "mbip-folder-ssh-open",
-    "tomcat": "mbip-folder-tomcat-open",
     "jsx": "mbip-folder-jsx-open",
     "tsx": "mbip-folder-tsx-open",
     "modelica": "mbip-folder-modelica-open",
@@ -47133,74 +45582,6 @@
     "zoiper": "mbip-folder-zoiper-open",
     "zomato": "mbip-folder-zomato-open",
     "zotero": "mbip-folder-zotero-open",
-    "aarch64": "mbip-folder-aarch64-open",
-    "aerospike": "mbip-folder-aerospike-open",
-    "appcelerator": "mbip-folder-appcelerator-open",
-    "azuresqldatabase": "mbip-folder-azuresqldatabase-open",
-    "carbon": "mbip-folder-carbon-open",
-    "clarity": "mbip-folder-clarity-open",
-    "cloudrun": "mbip-folder-cloudrun-open",
-    "codeac": "mbip-folder-codeac-open",
-    "codepen": "mbip-folder-codepen-open",
-    "dataspell": "mbip-folder-dataspell-open",
-    "detaspace": "mbip-folder-detaspace-open",
-    "devicon": "mbip-folder-devicon-open",
-    "discloud": "mbip-folder-discloud-open",
-    "dreamweaver": "mbip-folder-dreamweaver-open",
-    "ecto": "mbip-folder-ecto-open",
-    "firebird": "mbip-folder-firebird-open",
-    "fusion": "mbip-folder-fusion-open",
-    "gardener": "mbip-folder-gardener-open",
-    "gazebo": "mbip-folder-gazebo-open",
-    "harvester": "mbip-folder-harvester-open",
-    "hyperv": "mbip-folder-hyperv-open",
-    "ie10": "mbip-folder-ie10-open",
-    "jaegertracing": "mbip-folder-jaegertracing-open",
-    "jeet": "mbip-folder-jeet-open",
-    "jiraalign": "mbip-folder-jiraalign-open",
-    "k3os": "mbip-folder-k3os-open",
-    "kaldi": "mbip-folder-kaldi-open",
-    "karatelabs": "mbip-folder-karatelabs-open",
-    "krakenjs": "mbip-folder-krakenjs-open",
-    "laminas": "mbip-folder-laminas-open",
-    "minitab": "mbip-folder-minitab-open",
-    "nats": "mbip-folder-nats-open",
-    "netbox": "mbip-folder-netbox-open",
-    "networkx": "mbip-folder-networkx-open",
-    "nhibernate": "mbip-folder-nhibernate-open",
-    "nimble": "mbip-folder-nimble-open",
-    "nodewebkit": "mbip-folder-nodewebkit-open",
-    "norg": "mbip-folder-norg-open",
-    "npss": "mbip-folder-npss-open",
-    "openal": "mbip-folder-openal-open",
-    "photonengine": "mbip-folder-photonengine-open",
-    "premierepro": "mbip-folder-premierepro-open",
-    "pyscript": "mbip-folder-pyscript-open",
-    "qodana": "mbip-folder-qodana-open",
-    "qtest": "mbip-folder-qtest-open",
-    "realm": "mbip-folder-realm-open",
-    "rect": "mbip-folder-rect-open",
-    "scalingo": "mbip-folder-scalingo-open",
-    "sdl": "mbip-folder-sdl-open",
-    "sema": "mbip-folder-sema-open",
-    "shotgrid": "mbip-folder-shotgrid-open",
-    "slack": "mbip-folder-slack-open",
-    "spack": "mbip-folder-spack-open",
-    "spicedb": "mbip-folder-spicedb-open",
-    "spss": "mbip-folder-spss-open",
-    "sqldeveloper": "mbip-folder-sqldeveloper-open",
-    "stata": "mbip-folder-stata-open",
-    "sulu": "mbip-folder-sulu-open",
-    "terramate": "mbip-folder-terramate-open",
-    "titaniumsdk": "mbip-folder-titaniumsdk-open",
-    "tortoisegit": "mbip-folder-tortoisegit-open",
-    "towergit": "mbip-folder-towergit-open",
-    "unifiedmodelinglanguage": "mbip-folder-unifiedmodelinglanguage-open",
-    "uwsgi": "mbip-folder-uwsgi-open",
-    "vertx": "mbip-folder-vertx-open",
-    "vsphere": "mbip-folder-vsphere-open",
-    "waku": "mbip-folder-waku-open",
-    "windows8": "mbip-folder-windows8-open",
     "apiextractor": "mbip-folder-apiextractor-open",
     "atoum": "mbip-folder-atoum-open",
     "bazaar": "mbip-folder-bazaar-open",
@@ -49735,54 +48116,6 @@
     "gitbook": "mbip-file-gitbook",
     "gitee": "mbip-file-gitee",
     "gitlfs": "mbip-file-gitlfs",
-    "apex": "mbip-file-apex",
-    "embeddedc": "mbip-file-embeddedc",
-    "grpc": "mbip-file-grpc",
-    "matplotlib": "mbip-file-matplotlib",
-    "pixijs": "mbip-file-pixijs",
-    "p5js": "mbip-file-p5js",
-    "rxjs": "mbip-file-rxjs",
-    "reactnative": "mbip-file-reactnative",
-    "reactnavigation": "mbip-file-reactnavigation",
-    "zustand": "mbip-file-zustand",
-    "vuestorefront": "mbip-file-vuestorefront",
-    "grails": "mbip-file-grails",
-    "dropwizard": "mbip-file-dropwizard",
-    "entityframeworkcore": "mbip-file-entityframeworkcore",
-    "dotnetcore": "mbip-file-dotnetcore",
-    "love2d": "mbip-file-love2d",
-    "bevyengine": "mbip-file-bevyengine",
-    "babylonjs": "mbip-file-babylonjs",
-    "filamentphp": "mbip-file-filamentphp",
-    "djangorest": "mbip-file-djangorest",
-    "libgdx": "mbip-file-libgdx",
-    "oracle": "mbip-file-oracle",
-    "cassandra": "mbip-file-cassandra",
-    "couchdb": "mbip-file-couchdb",
-    "dynamodb": "mbip-file-dynamodb",
-    "faunadb": "mbip-file-faunadb",
-    "cosmosdb": "mbip-file-cosmosdb",
-    "memcached": "mbip-file-memcached",
-    "hadoop": "mbip-file-hadoop",
-    "microsoftsqlserver": "mbip-file-microsoftsqlserver",
-    "yugabytedb": "mbip-file-yugabytedb",
-    "netbeans": "mbip-file-netbeans",
-    "ohmyzsh": "mbip-file-ohmyzsh",
-    "putty": "mbip-file-putty",
-    "unix": "mbip-file-unix",
-    "msdos": "mbip-file-msdos",
-    "junit": "mbip-file-junit",
-    "threedsmax": "mbip-file-threedsmax",
-    "aftereffects": "mbip-file-aftereffects",
-    "photoshop": "mbip-file-photoshop",
-    "illustrator": "mbip-file-illustrator",
-    "xd": "mbip-file-xd",
-    "canva": "mbip-file-canva",
-    "twilio": "mbip-file-twilio",
-    "linkedin": "mbip-file-linkedin",
-    "twitter": "mbip-file-twitter",
-    "oauth": "mbip-file-oauth",
-    "windows11": "mbip-file-windows11",
     "maxscript": "mbip-file-maxscript",
     "alacritty-alt": "mbip-file-alacritty-alt",
     "automator": "mbip-file-automator",
@@ -50281,22 +48614,13 @@
     "zendesk": "mbip-file-zendesk",
     "zoho": "mbip-file-zoho",
     "zyte": "mbip-file-zyte",
-    "clojurescript": "mbip-file-clojurescript",
-    "visualbasic": "mbip-file-visualbasic",
     "vulkan": "mbip-file-vulkan",
     "hibernate": "mbip-file-hibernate",
-    "veevalidate": "mbip-file-veevalidate",
-    "cypressio": "mbip-file-cypressio",
-    "gcc": "mbip-file-gcc",
     "homebrew": "mbip-file-homebrew",
-    "envoy": "mbip-file-envoy",
-    "teleport": "mbip-file-teleport",
-    "spyder": "mbip-file-spyder",
     "facebook": "mbip-file-facebook",
     "stackoverflow": "mbip-file-stackoverflow",
     "raspberrypi": "mbip-file-raspberrypi",
     "leetcode": "mbip-file-leetcode",
-    "css3": "mbip-file-css3",
     "apachegroovy": "mbip-file-apachegroovy",
     "micropython": "mbip-file-micropython",
     "processingfoundation": "mbip-file-processingfoundation",
@@ -50733,31 +49057,8 @@
     "zola": "mbip-file-zola",
     "zorin": "mbip-file-zorin",
     "qubesos": "mbip-file-qubesos",
-    "jule": "mbip-file-jule",
-    "akka": "mbip-file-akka",
-    "angularmaterial": "mbip-file-angularmaterial",
-    "datatables": "mbip-file-datatables",
-    "feathersjs": "mbip-file-feathersjs",
-    "fiber": "mbip-file-fiber",
-    "foundation": "mbip-file-foundation",
-    "framermotion": "mbip-file-framermotion",
-    "laraveljetstream": "mbip-file-laraveljetstream",
-    "magento": "mbip-file-magento",
-    "materializecss": "mbip-file-materializecss",
-    "materialui": "mbip-file-materialui",
-    "mithril": "mbip-file-mithril",
     "moodle": "mbip-file-moodle",
-    "socketio": "mbip-file-socketio",
-    "xamarin": "mbip-file-xamarin",
-    "argocd": "mbip-file-argocd",
-    "azuredevops": "mbip-file-azuredevops",
-    "browserstack": "mbip-file-browserstack",
-    "githubcodespaces": "mbip-file-githubcodespaces",
     "hugo": "mbip-file-hugo",
-    "kubeflow": "mbip-file-kubeflow",
-    "pulsar": "mbip-file-pulsar",
-    "ssh": "mbip-file-ssh",
-    "tomcat": "mbip-file-tomcat",
     "modelica": "mbip-file-modelica",
     "yara": "mbip-file-yara",
     "animate": "mbip-file-animate",
@@ -50777,73 +49078,6 @@
     "public_key": "mbip-file-public_key",
     "registry": "mbip-file-registry",
     "access": "mbip-file-access",
-    "aarch64": "mbip-file-aarch64",
-    "aerospike": "mbip-file-aerospike",
-    "appcelerator": "mbip-file-appcelerator",
-    "azuresqldatabase": "mbip-file-azuresqldatabase",
-    "carbon": "mbip-file-carbon",
-    "clarity": "mbip-file-clarity",
-    "cloudrun": "mbip-file-cloudrun",
-    "codeac": "mbip-file-codeac",
-    "codepen": "mbip-file-codepen",
-    "dataspell": "mbip-file-dataspell",
-    "detaspace": "mbip-file-detaspace",
-    "devicon": "mbip-file-devicon",
-    "discloud": "mbip-file-discloud",
-    "dreamweaver": "mbip-file-dreamweaver",
-    "ecto": "mbip-file-ecto",
-    "firebird": "mbip-file-firebird",
-    "fusion": "mbip-file-fusion",
-    "gardener": "mbip-file-gardener",
-    "gazebo": "mbip-file-gazebo",
-    "harvester": "mbip-file-harvester",
-    "hyperv": "mbip-file-hyperv",
-    "ie10": "mbip-file-ie10",
-    "jaegertracing": "mbip-file-jaegertracing",
-    "jeet": "mbip-file-jeet",
-    "jiraalign": "mbip-file-jiraalign",
-    "k3os": "mbip-file-k3os",
-    "kaldi": "mbip-file-kaldi",
-    "karatelabs": "mbip-file-karatelabs",
-    "krakenjs": "mbip-file-krakenjs",
-    "laminas": "mbip-file-laminas",
-    "minitab": "mbip-file-minitab",
-    "nats": "mbip-file-nats",
-    "netbox": "mbip-file-netbox",
-    "networkx": "mbip-file-networkx",
-    "nhibernate": "mbip-file-nhibernate",
-    "nodewebkit": "mbip-file-nodewebkit",
-    "norg": "mbip-file-norg",
-    "npss": "mbip-file-npss",
-    "openal": "mbip-file-openal",
-    "photonengine": "mbip-file-photonengine",
-    "premierepro": "mbip-file-premierepro",
-    "pyscript": "mbip-file-pyscript",
-    "qodana": "mbip-file-qodana",
-    "qtest": "mbip-file-qtest",
-    "realm": "mbip-file-realm",
-    "rect": "mbip-file-rect",
-    "scalingo": "mbip-file-scalingo",
-    "sdl": "mbip-file-sdl",
-    "sema": "mbip-file-sema",
-    "shotgrid": "mbip-file-shotgrid",
-    "slack": "mbip-file-slack",
-    "spack": "mbip-file-spack",
-    "spicedb": "mbip-file-spicedb",
-    "spss": "mbip-file-spss",
-    "sqldeveloper": "mbip-file-sqldeveloper",
-    "stata": "mbip-file-stata",
-    "sulu": "mbip-file-sulu",
-    "terramate": "mbip-file-terramate",
-    "titaniumsdk": "mbip-file-titaniumsdk",
-    "tortoisegit": "mbip-file-tortoisegit",
-    "towergit": "mbip-file-towergit",
-    "unifiedmodelinglanguage": "mbip-file-unifiedmodelinglanguage",
-    "uwsgi": "mbip-file-uwsgi",
-    "vertx": "mbip-file-vertx",
-    "vsphere": "mbip-file-vsphere",
-    "waku": "mbip-file-waku",
-    "windows8": "mbip-file-windows8",
     "apiextractor": "mbip-file-apiextractor",
     "atoum": "mbip-file-atoum",
     "bazaar": "mbip-file-bazaar",
@@ -53407,55 +51641,6 @@
     "gitbook": "mbip-file-gitbook",
     "gitee": "mbip-file-gitee",
     "gitlfs": "mbip-file-gitlfs",
-    "apex": "mbip-file-apex",
-    "bash": "mbip-file-bash",
-    "embeddedc": "mbip-file-embeddedc",
-    "grpc": "mbip-file-grpc",
-    "matplotlib": "mbip-file-matplotlib",
-    "pixijs": "mbip-file-pixijs",
-    "p5js": "mbip-file-p5js",
-    "rxjs": "mbip-file-rxjs",
-    "reactnative": "mbip-file-reactnative",
-    "reactnavigation": "mbip-file-reactnavigation",
-    "zustand": "mbip-file-zustand",
-    "vuestorefront": "mbip-file-vuestorefront",
-    "grails": "mbip-file-grails",
-    "dropwizard": "mbip-file-dropwizard",
-    "entityframeworkcore": "mbip-file-entityframeworkcore",
-    "dotnetcore": "mbip-file-dotnetcore",
-    "love2d": "mbip-file-love2d",
-    "bevyengine": "mbip-file-bevyengine",
-    "babylonjs": "mbip-file-babylonjs",
-    "filamentphp": "mbip-file-filamentphp",
-    "djangorest": "mbip-file-djangorest",
-    "libgdx": "mbip-file-libgdx",
-    "oracle": "mbip-file-oracle",
-    "cassandra": "mbip-file-cassandra",
-    "couchdb": "mbip-file-couchdb",
-    "dynamodb": "mbip-file-dynamodb",
-    "faunadb": "mbip-file-faunadb",
-    "cosmosdb": "mbip-file-cosmosdb",
-    "memcached": "mbip-file-memcached",
-    "hadoop": "mbip-file-hadoop",
-    "microsoftsqlserver": "mbip-file-microsoftsqlserver",
-    "yugabytedb": "mbip-file-yugabytedb",
-    "netbeans": "mbip-file-netbeans",
-    "ohmyzsh": "mbip-file-ohmyzsh",
-    "putty": "mbip-file-putty",
-    "unix": "mbip-file-unix",
-    "msdos": "mbip-file-msdos",
-    "junit": "mbip-file-junit",
-    "threedsmax": "mbip-file-threedsmax",
-    "aftereffects": "mbip-file-aftereffects",
-    "photoshop": "mbip-file-photoshop",
-    "illustrator": "mbip-file-illustrator",
-    "xd": "mbip-file-xd",
-    "canva": "mbip-file-canva",
-    "twilio": "mbip-file-twilio",
-    "linkedin": "mbip-file-linkedin",
-    "twitter": "mbip-file-twitter",
-    "oauth": "mbip-file-oauth",
-    "windows11": "mbip-file-windows11",
     "ahk": "mbip-file-ahk",
     "as": "mbip-file-as",
     "asp": "mbip-file-asp",
@@ -53967,22 +52152,13 @@
     "zendesk": "mbip-file-zendesk",
     "zoho": "mbip-file-zoho",
     "zyte": "mbip-file-zyte",
-    "clojurescript": "mbip-file-clojurescript",
-    "visualbasic": "mbip-file-visualbasic",
     "vulkan": "mbip-file-vulkan",
     "hibernate": "mbip-file-hibernate",
-    "veevalidate": "mbip-file-veevalidate",
-    "cypressio": "mbip-file-cypressio",
-    "gcc": "mbip-file-gcc",
     "homebrew": "mbip-file-homebrew",
-    "envoy": "mbip-file-envoy",
-    "teleport": "mbip-file-teleport",
-    "spyder": "mbip-file-spyder",
     "facebook": "mbip-file-facebook",
     "stackoverflow": "mbip-file-stackoverflow",
     "raspberrypi": "mbip-file-raspberrypi",
     "leetcode": "mbip-file-leetcode",
-    "css3": "mbip-file-css3",
     "apachegroovy": "mbip-file-apachegroovy",
     "micropython": "mbip-file-micropython",
     "processingfoundation": "mbip-file-processingfoundation",
@@ -54420,31 +52596,8 @@
     "zola": "mbip-file-zola",
     "zorin": "mbip-file-zorin",
     "qubesos": "mbip-file-qubesos",
-    "jule": "mbip-file-jule",
-    "akka": "mbip-file-akka",
-    "angularmaterial": "mbip-file-angularmaterial",
-    "datatables": "mbip-file-datatables",
-    "feathersjs": "mbip-file-feathersjs",
-    "fiber": "mbip-file-fiber",
-    "foundation": "mbip-file-foundation",
-    "framermotion": "mbip-file-framermotion",
-    "laraveljetstream": "mbip-file-laraveljetstream",
-    "magento": "mbip-file-magento",
-    "materializecss": "mbip-file-materializecss",
-    "materialui": "mbip-file-materialui",
-    "mithril": "mbip-file-mithril",
     "moodle": "mbip-file-moodle",
-    "socketio": "mbip-file-socketio",
-    "xamarin": "mbip-file-xamarin",
-    "argocd": "mbip-file-argocd",
-    "azuredevops": "mbip-file-azuredevops",
-    "browserstack": "mbip-file-browserstack",
-    "githubcodespaces": "mbip-file-githubcodespaces",
     "hugo": "mbip-file-hugo",
-    "kubeflow": "mbip-file-kubeflow",
-    "pulsar": "mbip-file-pulsar",
-    "ssh": "mbip-file-ssh",
-    "tomcat": "mbip-file-tomcat",
     "jsx": "mbip-file-jsx",
     "tsx": "mbip-file-tsx",
     "modelica": "mbip-file-modelica",
@@ -54473,74 +52626,6 @@
     "registry": "mbip-file-registry",
     "fastq": "mbip-file-fastq",
     "access": "mbip-file-access",
-    "aarch64": "mbip-file-aarch64",
-    "aerospike": "mbip-file-aerospike",
-    "appcelerator": "mbip-file-appcelerator",
-    "azuresqldatabase": "mbip-file-azuresqldatabase",
-    "carbon": "mbip-file-carbon",
-    "clarity": "mbip-file-clarity",
-    "cloudrun": "mbip-file-cloudrun",
-    "codeac": "mbip-file-codeac",
-    "codepen": "mbip-file-codepen",
-    "dataspell": "mbip-file-dataspell",
-    "detaspace": "mbip-file-detaspace",
-    "devicon": "mbip-file-devicon",
-    "discloud": "mbip-file-discloud",
-    "dreamweaver": "mbip-file-dreamweaver",
-    "ecto": "mbip-file-ecto",
-    "firebird": "mbip-file-firebird",
-    "fusion": "mbip-file-fusion",
-    "gardener": "mbip-file-gardener",
-    "gazebo": "mbip-file-gazebo",
-    "harvester": "mbip-file-harvester",
-    "hyperv": "mbip-file-hyperv",
-    "ie10": "mbip-file-ie10",
-    "jaegertracing": "mbip-file-jaegertracing",
-    "jeet": "mbip-file-jeet",
-    "jiraalign": "mbip-file-jiraalign",
-    "k3os": "mbip-file-k3os",
-    "kaldi": "mbip-file-kaldi",
-    "karatelabs": "mbip-file-karatelabs",
-    "krakenjs": "mbip-file-krakenjs",
-    "laminas": "mbip-file-laminas",
-    "minitab": "mbip-file-minitab",
-    "nats": "mbip-file-nats",
-    "netbox": "mbip-file-netbox",
-    "networkx": "mbip-file-networkx",
-    "nhibernate": "mbip-file-nhibernate",
-    "nimble": "mbip-file-nimble",
-    "nodewebkit": "mbip-file-nodewebkit",
-    "norg": "mbip-file-norg",
-    "npss": "mbip-file-npss",
-    "openal": "mbip-file-openal",
-    "photonengine": "mbip-file-photonengine",
-    "premierepro": "mbip-file-premierepro",
-    "pyscript": "mbip-file-pyscript",
-    "qodana": "mbip-file-qodana",
-    "qtest": "mbip-file-qtest",
-    "realm": "mbip-file-realm",
-    "rect": "mbip-file-rect",
-    "scalingo": "mbip-file-scalingo",
-    "sdl": "mbip-file-sdl",
-    "sema": "mbip-file-sema",
-    "shotgrid": "mbip-file-shotgrid",
-    "slack": "mbip-file-slack",
-    "spack": "mbip-file-spack",
-    "spicedb": "mbip-file-spicedb",
-    "spss": "mbip-file-spss",
-    "sqldeveloper": "mbip-file-sqldeveloper",
-    "stata": "mbip-file-stata",
-    "sulu": "mbip-file-sulu",
-    "terramate": "mbip-file-terramate",
-    "titaniumsdk": "mbip-file-titaniumsdk",
-    "tortoisegit": "mbip-file-tortoisegit",
-    "towergit": "mbip-file-towergit",
-    "unifiedmodelinglanguage": "mbip-file-unifiedmodelinglanguage",
-    "uwsgi": "mbip-file-uwsgi",
-    "vertx": "mbip-file-vertx",
-    "vsphere": "mbip-file-vsphere",
-    "waku": "mbip-file-waku",
-    "windows8": "mbip-file-windows8",
     "apiextractor": "mbip-file-apiextractor",
     "atoum": "mbip-file-atoum",
     "bazaar": "mbip-file-bazaar",

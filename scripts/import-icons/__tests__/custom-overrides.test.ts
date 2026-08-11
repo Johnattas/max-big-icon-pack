@@ -45,6 +45,11 @@ describe('applyOverrides', () => {
         'folder-routes': { iconPath: 'icons/folder-routes.svg' },
         'folder-store': { iconPath: 'icons/folder-store.svg' },
         'folder-store-open': { iconPath: 'icons/folder-store-open.svg' },
+        'folder-debug': { iconPath: 'icons/folder-debug.svg' },
+        'folder-review': { iconPath: 'icons/folder-review.svg' },
+        'folder-core': { iconPath: 'icons/folder-core.svg' },
+        'folder-features': { iconPath: 'icons/folder-features.svg' },
+        'folder-dist': { iconPath: 'icons/folder-dist.svg' },
       },
       folderNames: {},
       folderNamesExpanded: {},
@@ -68,6 +73,17 @@ describe('applyOverrides', () => {
     // mapeamento: storage -> folder-store (+ open)
     expect(theme.folderNames['storage']).toBe('folder-store');
     expect(theme.folderNamesExpanded['storage']).toBe('folder-store-open');
+
+    // verificações das novas pastas adicionadas
+    expect(theme.folderNames['bugs-fix']).toBe('folder-debug');
+    expect(theme.folderNames['bugs-to-fix']).toBe('folder-debug');
+    expect(theme.folderNames['bugs_to_fix']).toBe('folder-debug');
+    expect(theme.folderNames['audit']).toBe('folder-review');
+    expect(theme.folderNames['implementations']).toBe('folder-core');
+    expect(theme.folderNames['features']).toBe('folder-features');
+    expect(theme.folderNames['new_features']).toBe('folder-features');
+    expect(theme.folderNames['new-features']).toBe('folder-features');
+    expect(theme.folderNames['deploy']).toBe('folder-dist');
 
     // origem ausente é reportada, não quebra
     expect(problems.some((p) => p.includes('resources'))).toBe(true);

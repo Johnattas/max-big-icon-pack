@@ -134,6 +134,16 @@ export const FOLDER_ICONS: Record<string, string> = {
   functional: 'folder-test',
   exceptions: 'folder-error',
   anticaptcha: 'folder-secure',
+  // quinto lote — bugs, audit, implementations, features, deploy
+  'bugs-fix': 'folder-debug',
+  'bugs-to-fix': 'folder-debug',
+  bugs_to_fix: 'folder-debug',
+  audit: 'folder-review',
+  implementations: 'folder-core',
+  features: 'folder-features',
+  new_features: 'folder-features',
+  'new-features': 'folder-features',
+  deploy: 'folder-dist',
 };
 
 /** Substitui os fills dos paths id="folder" (cor) e id="motive" (tom claro). */
