@@ -1,0 +1,57 @@
+import { Provider } from '../models';
+
+export default function bitbucket(): Provider {
+  return {
+    name: 'bitbucket',
+    domains: [
+      {
+        host: 'bitbucket.org',
+        test: /^bitbucket\.org$/,
+      },
+    ],
+    selectors: {
+      // Don't replace the icon for the parent directory row
+      row: 'table[data-qa="repository-directory"] td:first-child a:first-child:not([aria-label="Parent directory,"])',
+      filename: 'span',
+      icon: 'svg',
+      // Element by which to detect if the tested domain is bitbucket.
+      detect: 'body[data-aui-version] > #root',
+    },
+    canSelfHost: true,
+    isCustom: false,
+    getIsLightTheme: () => true, // No dark mode available for bitbucket currently
+    getIsDirectory: ({ icon }) =>
+      (icon.parentNode as HTMLElement)?.getAttribute('aria-label') ===
+      'Directory,',
+    getIsSubmodule: ({ icon }) =>
+      (icon.parentNode as HTMLElement)?.getAttribute('aria-label') ===
+      'Submodule,',
+    getIsSymlink: () => false, // There appears to be no way to determine this for bitbucket
+    replaceIcon: (svgEl, newSVG) => {
+      newSVG.style.overflow = 'hidden';
+      newSVG.style.pointerEvents = 'none';
+      newSVG.style.maxHeight = '100%';
+      newSVG.style.maxWidth = '100%';
+      newSVG.style.verticalAlign = 'bottom';
+
+      svgEl
+        .getAttributeNames()
+        .forEach(
+          (attr) =>
+            attr !== 'src' &&
+            !/^data-material-icons-extension/.test(attr) &&
+            newSVG.setAttribute(attr, svgEl.getAttribute(attr) ?? '')
+        );
+
+      svgEl.parentNode?.replaceChild(newSVG, svgEl);
+    },
+    onAdd: () => {},
+    transformFileName: (
+      _rowEl: HTMLElement,
+      _iconEl: HTMLElement,
+      fileName: string
+    ): string => {
+      return fileName;
+    },
+  };
+}

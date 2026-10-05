@@ -1,0 +1,94 @@
+name: 🚀 Release + Publish
+
+on: [workflow_dispatch]
+
+permissions:
+  id-token: write
+  contents: write
+  attestations: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: ✅ Use App Token for the Bot which is allowed to create releases
+        uses: actions/create-github-app-token@f8d387b68d61c58ab83c6c016672934102569859 # v3.0.0
+        id: app-token
+        with:
+          app-id: ${{ vars.BOT_APP_ID }}
+          private-key: ${{ secrets.BOT_PRIVATE_KEY }}
+
+      - name: 📥 Checkout
+        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+        with:
+          # Required for fetching tags and generating release notes
+          fetch-depth: 0
+          token: ${{ steps.app-token.outputs.token }}
+
+      - name: 🔧 Setup Bun
+        uses: oven-sh/setup-bun@0c5077e51419868618aeaa5fe8019c62421857d6 # v2
+        with:
+          bun-version-file: ".bun-version"
+
+      - name: 📦 Install dependencies
+        run: |
+          bun install --frozen-lockfile
+
+      - name: 🔧 Configure Git
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git config --global push.followTags true
+
+      - name: 🚀 Prepare release
+        run: bun run preversion
+
+      - name: 📜 Generate changelog and release notes
+        env:
+          # Don't run husky on `git commit`
+          HUSKY: 0
+        run: |
+          bunx changelogen --hideAuthorEmail --release --push
+          bunx changelogen github release --token ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 📝 Get metadata
+        run: |
+          VERSION=$(jq -r '.version' package.json)
+          NAME=$(jq -r '.name' package.json)
+
+          EXTENSION_FILE="${NAME}-${VERSION}.vsix"
+
+          echo "VERSION=$VERSION"                  >> $GITHUB_ENV
+          echo "EXTENSION_FILE=$EXTENSION_FILE"    >> $GITHUB_ENV
+
+      - name: 🛠️ Build extension
+        run: bunx @vscode/vsce package
+
+      - name: 🔒 Attest artifacts
+        uses: actions/attest-build-provenance@a2bbfa25375fe432b6a289bc6b6cd05ecd0c4c32 # v4.1.0
+        # Read: https://docs.github.com/en/actions/security-guides/using-artifact-attestations-to-establish-provenance-for-builds
+        with:
+          subject-path: ${{ env.EXTENSION_FILE }}
+
+      - name: 🌐 Publish to Open VSX Registry
+        uses: HaaLeo/publish-vscode-extension@ca5561daa085dee804bf9f37fe0165785a9b14db # v2.0.0
+        with:
+          pat: ${{ secrets.OPEN_VSX_TOKEN }}
+          extensionFile: ${{ env.EXTENSION_FILE }}
+
+      - name: 🌐 Publish to Visual Studio Marketplace
+        uses: HaaLeo/publish-vscode-extension@ca5561daa085dee804bf9f37fe0165785a9b14db # v2.0.0
+        with:
+          pat: ${{ secrets.VS_MARKETPLACE_TOKEN }}
+          registryUrl: https://marketplace.visualstudio.com
+          extensionFile: ${{ env.EXTENSION_FILE }}
+
+      - name: 📦 Publish to NPM Registry
+        run: npm publish --provenance --access public
+
+      - name: ⬆️ Upload VSIX to GitHub release
+        run: |
+          gh release upload v$VERSION $EXTENSION_FILE
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

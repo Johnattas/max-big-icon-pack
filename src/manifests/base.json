@@ -1,0 +1,75 @@
+{
+  "name": "Material Icons for GitHub",
+  "version": "1.16.2",
+  "description": "Material icons for the file browser of popular websites like GitHub, Azure, Bitbucket etc.",
+  "homepage_url": "https://github.com/material-extensions/material-icons-browser-extension",
+  "icons": {
+    "16": "icon-16.png",
+    "32": "icon-32.png",
+    "48": "icon-48.png",
+    "128": "icon-128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "*://github.com/*",
+        "*://bitbucket.org/*",
+        "*://dev.azure.com/*",
+        "*://*.visualstudio.com/*",
+        "*://gitea.com/*",
+        "*://gitlab.com/*",
+        "*://gitee.com/*",
+        "*://sourceforge.net/*",
+        "*://codeberg.org/*",
+        "*://tangled.org/*"
+      ],
+      "js": [
+        "./main.js"
+      ],
+      "css": [
+        "./injected-styles.css"
+      ],
+      "run_at": "document_start"
+    }
+  ],
+  "options_ui": {
+    "page": "options.html",
+    "open_in_tab": true
+  },
+  "permissions": [
+    "storage",
+    "activeTab",
+    "scripting"
+  ],
+  "manifest_version": 3,
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "*.svg"
+      ],
+      "matches": [
+        "*://github.com/*",
+        "*://bitbucket.org/*",
+        "*://dev.azure.com/*",
+        "*://*.visualstudio.com/*",
+        "*://gitea.com/*",
+        "*://gitlab.com/*",
+        "*://gitee.com/*",
+        "*://sourceforge.net/*",
+        "*://codeberg.org/*",
+        "*://tangled.org/*",
+        "*://*/*"
+      ]
+    }
+  ],
+  "action": {
+    "default_title": "Material Icons Settings",
+    "default_popup": "settings-popup.html",
+    "default_icon": {
+      "16": "icon-16.png",
+      "32": "icon-32.png",
+      "48": "icon-48.png",
+      "128": "icon-128.png"
+    }
+  }
+}

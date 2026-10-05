@@ -34,3 +34,5 @@ dist-theme/*.vsix
 .superpowers/
 .antigravitycli/
 .junie/
+/.worktrees
+/.max-code-worktrees
