@@ -84,5 +84,14 @@ Não há skill específica para conversão de fonte/SVG; essa parte é scripting
 
 ## Empacotamento e Versionamento Automático
 
-- **Empacotamento Automático**: Em **cada alteração** efetuada no código ou ícones deste repositório, execute obrigatoriamente `npm run package` para gerar o arquivo de extensão `.vsix` atualizado na pasta `dist-theme/`.
-- **Incremento de Versão Automático**: O script `npm run package` chama automaticamente `scripts/bump-version.ts`, que incrementa a versão *patch* em `package.json` e `dist-theme/package.json` (ex: `1.0.22` -> `1.0.23`) antes de criar o arquivo VSIX.
+- **Empacotamento por entrega autorizada**: Execute `npm run package` somente em entregas/release explicitamente solicitados pelo usuário, depois de concluir o bloco de implementação, correções e validação. Não empacote a cada alteração de código ou ícone.
+- **Incremento de versão no empacotamento**: `npm run package` chama `scripts/bump-version.ts` e incrementa a versão patch em `package.json` e `dist-theme/package.json`. Preserve esse mecanismo para a entrega autorizada; não o use como verificação rotineira nem gere bumps repetidos durante correções.
+
+
+## Execução e validação em lote
+
+- Implemente todo o bloco autorizado e seus testes antes de executar validações. Depois, valide o conjunto, corrija as falhas em lote e revalide após concluir as correções. Não execute testes, tipos ou builds após cada microedição.
+- Leia as diretrizes na primeira admissão e consulte os trechos necessários nas retomadas. Preserve decisões e autorização já concedidas; peça nova decisão somente para ampliação de escopo ou ambiguidade relevante.
+- Planeje verificações pelos arquivos afetados e contratos do projeto. Comandos agregados já executam suas etapas: não repita testes, tipos, lint ou build sobre a mesma revisão sem mudança relevante, falha ou dúvida concreta.
+- Preserve asserções, testes de regressão, revisão final e gates de segurança/release. Falhas persistentes exigem diagnóstico; não amplie o escopo para corrigir baseline sem estabelecer causalidade e autorização.
+- Informe progresso e limitações; não exponha segredos nem declare verde com verificações falhando ou pendentes. Este fluxo não autoriza publicação, deploy ou integração Git.

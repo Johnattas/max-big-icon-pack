@@ -1,1 +1,1 @@
-/home/johnattas/GitHub/max-big-icon-pack/CLAUDE.md
+CLAUDE.md
